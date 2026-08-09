@@ -1,0 +1,704 @@
+{"id": 4, "sub_answers": ["4.5", "5/4", "5.2"], "final_ans": "\\text{Evelyn}", "kind": "wrong_value"}
+{"id": 4, "sub_answers": ["2.5", "4.5", "5.2"], "final_ans": "\\text{Evelyn}", "kind": "sibling_swap"}
+{"id": 33, "sub_answers": ["\\frac{3}{5}", "\\frac{9}{5}", "\\frac{54}{50}"], "final_ans": "\\frac{243}{625}", "kind": "wrong_value"}
+{"id": 33, "sub_answers": ["\\frac{3}{5}", "\\frac{9}{5}", "\\frac{27}{50}"], "final_ans": "\\frac{253}{625}", "kind": "wrong_final"}
+{"id": 33, "sub_answers": ["\\frac{3}{5}", "\\frac{27}{50}", "\\frac{9}{5}"], "final_ans": "\\frac{243}{625}", "kind": "sibling_swap"}
+{"id": 38, "sub_answers": ["2000", "25"], "final_ans": "2000", "kind": "wrong_value"}
+{"id": 38, "sub_answers": ["2000", "50"], "final_ans": "2010", "kind": "wrong_final"}
+{"id": 38, "sub_answers": ["50", "2000"], "final_ans": "2000", "kind": "sibling_swap"}
+{"id": 52, "sub_answers": ["288/25", "0.2"], "final_ans": "12", "kind": "wrong_value"}
+{"id": 52, "sub_answers": ["5.76", "0.2"], "final_ans": "22", "kind": "wrong_final"}
+{"id": 52, "sub_answers": ["0.2", "5.76"], "final_ans": "12", "kind": "sibling_swap"}
+{"id": 56, "sub_answers": ["N^1", "11"], "final_ans": "11", "kind": "wrong_value"}
+{"id": 56, "sub_answers": ["N^2", "11"], "final_ans": "22", "kind": "wrong_final"}
+{"id": 56, "sub_answers": ["11", "N^2"], "final_ans": "11", "kind": "sibling_swap"}
+{"id": 65, "sub_answers": ["a^n", "1/2"], "final_ans": "1", "kind": "wrong_value"}
+{"id": 65, "sub_answers": ["a^n", "1"], "final_ans": "2", "kind": "wrong_final"}
+{"id": 65, "sub_answers": ["1", "a^n"], "final_ans": "1", "kind": "sibling_swap"}
+{"id": 65, "sub_answers": ["a", "11"], "final_ans": "1", "kind": "wrong_value"}
+{"id": 65, "sub_answers": ["a", "1"], "final_ans": "1/2", "kind": "wrong_final"}
+{"id": 65, "sub_answers": ["1", "a"], "final_ans": "1", "kind": "sibling_swap"}
+{"id": 77, "sub_answers": ["4", "8^4"], "final_ans": "4", "kind": "wrong_value"}
+{"id": 77, "sub_answers": ["4", "4^4"], "final_ans": "8", "kind": "wrong_final"}
+{"id": 77, "sub_answers": ["4^4", "4"], "final_ans": "4", "kind": "sibling_swap"}
+{"id": 86, "sub_answers": ["30", "39", "48"], "final_ans": "240", "kind": "wrong_value"}
+{"id": 86, "sub_answers": ["30", "40", "48"], "final_ans": "480", "kind": "wrong_final"}
+{"id": 86, "sub_answers": ["48", "40", "30"], "final_ans": "240", "kind": "sibling_swap"}
+{"id": 105, "sub_answers": ["136, 11, 29, 524, 11, 19, 29, 41", "8", "\\text{Sort the list and pick the middle element}"], "final_ans": "39", "kind": "wrong_final"}
+{"id": 105, "sub_answers": ["\\text{Sort the list and pick the middle element}", "8", "136, 11, 29, 524, 11, 19, 29, 41"], "final_ans": "29", "kind": "sibling_swap"}
+{"id": 105, "sub_answers": ["11, 29, 524, 11, 19, 29, 41", "8", "\\text{Sort the list and pick the middle element}"], "final_ans": "30", "kind": "wrong_final"}
+{"id": 105, "sub_answers": ["8", "11, 29, 524, 11, 19, 29, 41", "\\text{Sort the list and pick the middle element}"], "final_ans": "29", "kind": "sibling_swap"}
+{"id": 105, "sub_answers": ["136, 11, 29, 524, 11, 19, 29, 41", "8", "\\text{Middle number in sorted list}"], "final_ans": "29/2", "kind": "wrong_final"}
+{"id": 105, "sub_answers": ["8", "136, 11, 29, 524, 11, 19, 29, 41", "\\text{Middle number in sorted list}"], "final_ans": "29", "kind": "sibling_swap"}
+{"id": 105, "sub_answers": ["146, 11, 29, 524, 11, 19, 29, 41", "8", "19"], "final_ans": "29", "kind": "wrong_value"}
+{"id": 105, "sub_answers": ["136, 11, 29, 524, 11, 19, 29, 41", "8", "19"], "final_ans": "290", "kind": "wrong_final"}
+{"id": 105, "sub_answers": ["19", "8", "136, 11, 29, 524, 11, 19, 29, 41"], "final_ans": "29", "kind": "sibling_swap"}
+{"id": 105, "sub_answers": ["110, 29, 524, 11, 19, 29, 41", "8", "\\text{Middle number in sorted list}"], "final_ans": "29", "kind": "wrong_value"}
+{"id": 105, "sub_answers": ["11, 29, 524, 11, 19, 29, 41", "8", "\\text{Middle number in sorted list}"], "final_ans": "290", "kind": "wrong_final"}
+{"id": 105, "sub_answers": ["11, 29, 524, 11, 19, 29, 41", "\\text{Middle number in sorted list}", "8"], "final_ans": "29", "kind": "sibling_swap"}
+{"id": 105, "sub_answers": ["11, 29, 524, 11, 19, 29, 41", "8", "29"], "final_ans": "29", "kind": "wrong_value"}
+{"id": 105, "sub_answers": ["11, 29, 524, 11, 19, 29, 41", "8", "19"], "final_ans": "290", "kind": "wrong_final"}
+{"id": 105, "sub_answers": ["11, 29, 524, 11, 19, 29, 41", "19", "8"], "final_ans": "29", "kind": "sibling_swap"}
+{"id": 119, "sub_answers": ["-26", "-9"], "final_ans": "-9", "kind": "wrong_value"}
+{"id": 119, "sub_answers": ["-13", "-9"], "final_ans": "-90", "kind": "wrong_final"}
+{"id": 119, "sub_answers": ["-9", "-13"], "final_ans": "-9", "kind": "sibling_swap"}
+{"id": 130, "sub_answers": ["14", "130"], "final_ans": "13", "kind": "wrong_value"}
+{"id": 130, "sub_answers": ["14", "13"], "final_ans": "23", "kind": "wrong_final"}
+{"id": 130, "sub_answers": ["13", "14"], "final_ans": "13", "kind": "sibling_swap"}
+{"id": 130, "sub_answers": ["0", "14"], "final_ans": "13", "kind": "wrong_value"}
+{"id": 130, "sub_answers": ["0", "13"], "final_ans": "26", "kind": "wrong_final"}
+{"id": 130, "sub_answers": ["13", "0"], "final_ans": "13", "kind": "sibling_swap"}
+{"id": 135, "sub_answers": ["90", "9", "9"], "final_ans": "9", "kind": "wrong_value"}
+{"id": 135, "sub_answers": ["9", "9", "9"], "final_ans": "18", "kind": "wrong_final"}
+{"id": 151, "sub_answers": ["\\text{The equations represent the squared distances between three points in the plane.}", "144", "6"], "final_ans": "145", "kind": "wrong_final"}
+{"id": 151, "sub_answers": ["144", "\\text{The equations represent the squared distances between three points in the plane.}", "6"], "final_ans": "144", "kind": "sibling_swap"}
+{"id": 151, "sub_answers": ["\\text{Distances between points}", "144", "6"], "final_ans": "143", "kind": "wrong_final"}
+{"id": 151, "sub_answers": ["\\text{Distances between points}", "6", "144"], "final_ans": "144", "kind": "sibling_swap"}
+{"id": 151, "sub_answers": ["\\text{The equations represent the squared Euclidean distances between three points in a plane.}", "1440", "6"], "final_ans": "144", "kind": "wrong_value"}
+{"id": 151, "sub_answers": ["\\text{The equations represent the squared Euclidean distances between three points in a plane.}", "144", "6"], "final_ans": "1440", "kind": "wrong_final"}
+{"id": 151, "sub_answers": ["6", "144", "\\text{The equations represent the squared Euclidean distances between three points in a plane.}"], "final_ans": "144", "kind": "sibling_swap"}
+{"id": 151, "sub_answers": ["\\text{Distances between points}", "48", "6"], "final_ans": "72", "kind": "wrong_final"}
+{"id": 151, "sub_answers": ["48", "\\text{Distances between points}", "6"], "final_ans": "144", "kind": "sibling_swap"}
+{"id": 160, "sub_answers": ["\\sqrt{287}", "\\text{irrational number}", "16"], "final_ans": "18", "kind": "wrong_value"}
+{"id": 160, "sub_answers": ["\\sqrt{288}", "\\text{irrational number}", "16"], "final_ans": "19", "kind": "wrong_final"}
+{"id": 160, "sub_answers": ["16", "\\text{irrational number}", "\\sqrt{288}"], "final_ans": "18", "kind": "sibling_swap"}
+{"id": 160, "sub_answers": ["16.97", "\\text{irrational number}", "160"], "final_ans": "18", "kind": "wrong_value"}
+{"id": 160, "sub_answers": ["16.97", "\\text{irrational number}", "16"], "final_ans": "28", "kind": "wrong_final"}
+{"id": 160, "sub_answers": ["16.97", "16", "\\text{irrational number}"], "final_ans": "18", "kind": "sibling_swap"}
+{"id": 160, "sub_answers": ["\\sqrt{289} \\approx 16.97", "\\text{irrational number}", "16"], "final_ans": "18", "kind": "wrong_value"}
+{"id": 160, "sub_answers": ["\\sqrt{288} \\approx 16.97", "\\text{irrational number}", "16"], "final_ans": "180", "kind": "wrong_final"}
+{"id": 160, "sub_answers": ["16", "\\text{irrational number}", "\\sqrt{288} \\approx 16.97"], "final_ans": "18", "kind": "sibling_swap"}
+{"id": 160, "sub_answers": ["\\sqrt{298}", "\\text{irrational}", "16"], "final_ans": "18", "kind": "wrong_value"}
+{"id": 160, "sub_answers": ["\\sqrt{288}", "\\text{irrational}", "16"], "final_ans": "180", "kind": "wrong_final"}
+{"id": 160, "sub_answers": ["\\text{irrational}", "\\sqrt{288}", "16"], "final_ans": "18", "kind": "sibling_swap"}
+{"id": 160, "sub_answers": ["16.97", "\\text{irrational}", "16"], "final_ans": "28", "kind": "wrong_final"}
+{"id": 160, "sub_answers": ["\\text{irrational}", "16.97", "16"], "final_ans": "18", "kind": "sibling_swap"}
+{"id": 160, "sub_answers": ["\\sqrt{576} \\approx 16.97", "\\text{irrational}", "16"], "final_ans": "18", "kind": "wrong_value"}
+{"id": 160, "sub_answers": ["\\sqrt{288} \\approx 16.97", "\\text{irrational}", "16"], "final_ans": "19", "kind": "wrong_final"}
+{"id": 160, "sub_answers": ["\\sqrt{288} \\approx 16.97", "16", "\\text{irrational}"], "final_ans": "18", "kind": "sibling_swap"}
+{"id": 176, "sub_answers": ["4^2 \\cdot 5^7", "\\frac{21 \\cdot 2^5}{10^7}", "0.0000672"], "final_ans": "0.0000672", "kind": "wrong_value"}
+{"id": 176, "sub_answers": ["2^2 \\cdot 5^7", "\\frac{21 \\cdot 2^5}{10^7}", "0.0000672"], "final_ans": "21/31250", "kind": "wrong_final"}
+{"id": 176, "sub_answers": ["0.0000672", "\\frac{21 \\cdot 2^5}{10^7}", "2^2 \\cdot 5^7"], "final_ans": "0.0000672", "kind": "sibling_swap"}
+{"id": 176, "sub_answers": ["1^2 \\cdot 5^7", "\\frac{65625}{10^{12}}", "0.0000672"], "final_ans": "0.0000672", "kind": "wrong_value"}
+{"id": 176, "sub_answers": ["2^2 \\cdot 5^7", "\\frac{65625}{10^{12}}", "0.0000672"], "final_ans": "21/156250", "kind": "wrong_final"}
+{"id": 176, "sub_answers": ["2^2 \\cdot 5^7", "0.0000672", "\\frac{65625}{10^{12}}"], "final_ans": "0.0000672", "kind": "sibling_swap"}
+{"id": 176, "sub_answers": ["2^2 \\cdot 5^7", "\\frac{672}{10^7}", "21/156250"], "final_ans": "0.0000672", "kind": "wrong_value"}
+{"id": 176, "sub_answers": ["2^2 \\cdot 5^7", "\\frac{672}{10^7}", "0.0000672"], "final_ans": "21/625000", "kind": "wrong_final"}
+{"id": 176, "sub_answers": ["2^2 \\cdot 5^7", "0.0000672", "\\frac{672}{10^7}"], "final_ans": "0.0000672", "kind": "sibling_swap"}
+{"id": 193, "sub_answers": ["\\pm 1", "1, 2", "14"], "final_ans": "4", "kind": "wrong_value"}
+{"id": 193, "sub_answers": ["\\pm 1", "1, 2", "4"], "final_ans": "14", "kind": "wrong_final"}
+{"id": 193, "sub_answers": ["\\pm 1", "4", "1, 2"], "final_ans": "4", "kind": "sibling_swap"}
+{"id": 193, "sub_answers": ["\\pm 1", "\\pm 2, \\pm 2", "4"], "final_ans": "4", "kind": "wrong_value"}
+{"id": 193, "sub_answers": ["\\pm 1", "\\pm 1, \\pm 2", "4"], "final_ans": "14", "kind": "wrong_final"}
+{"id": 193, "sub_answers": ["\\pm 1", "4", "\\pm 1, \\pm 2"], "final_ans": "4", "kind": "sibling_swap"}
+{"id": 209, "sub_answers": ["97", "15", "16"], "final_ans": "16", "kind": "wrong_value"}
+{"id": 209, "sub_answers": ["97", "16", "16"], "final_ans": "17", "kind": "wrong_final"}
+{"id": 209, "sub_answers": ["16", "16", "97"], "final_ans": "16", "kind": "sibling_swap"}
+{"id": 209, "sub_answers": ["97", "9/2, 7", "16"], "final_ans": "16", "kind": "wrong_value"}
+{"id": 209, "sub_answers": ["97", "9, 7", "16"], "final_ans": "32", "kind": "wrong_final"}
+{"id": 209, "sub_answers": ["16", "9, 7", "97"], "final_ans": "16", "kind": "sibling_swap"}
+{"id": 209, "sub_answers": ["97", "8", "32"], "final_ans": "16", "kind": "wrong_value"}
+{"id": 209, "sub_answers": ["97", "8", "16"], "final_ans": "8", "kind": "wrong_final"}
+{"id": 209, "sub_answers": ["8", "97", "16"], "final_ans": "16", "kind": "sibling_swap"}
+{"id": 212, "sub_answers": ["280", "58", "32"], "final_ans": "56", "kind": "wrong_value"}
+{"id": 212, "sub_answers": ["280", "48", "32"], "final_ans": "28", "kind": "wrong_final"}
+{"id": 212, "sub_answers": ["48", "280", "32"], "final_ans": "56", "kind": "sibling_swap"}
+{"id": 219, "sub_answers": ["10, 2", "1, 2, 3", "12"], "final_ans": "\\frac{1}{2}", "kind": "wrong_value"}
+{"id": 219, "sub_answers": ["1, 2", "1, 2, 3", "12"], "final_ans": "\\frac{1/2}{2}", "kind": "wrong_final"}
+{"id": 219, "sub_answers": ["12", "1, 2, 3", "1, 2"], "final_ans": "\\frac{1}{2}", "kind": "sibling_swap"}
+{"id": 219, "sub_answers": ["1/2, 2", "1, 2, 3, 2", "12"], "final_ans": "\\frac{1}{2}", "kind": "wrong_value"}
+{"id": 219, "sub_answers": ["1, 2", "1, 2, 3, 2", "12"], "final_ans": "\\frac{0}{2}", "kind": "wrong_final"}
+{"id": 219, "sub_answers": ["1, 2", "12", "1, 2, 3, 2"], "final_ans": "\\frac{1}{2}", "kind": "sibling_swap"}
+{"id": 246, "sub_answers": ["6", "\\frac{3}{2}", "18"], "final_ans": "8", "kind": "wrong_value"}
+{"id": 246, "sub_answers": ["6", "\\frac{3}{2}", "8"], "final_ans": "9", "kind": "wrong_final"}
+{"id": 246, "sub_answers": ["\\frac{3}{2}", "6", "8"], "final_ans": "8", "kind": "sibling_swap"}
+{"id": 246, "sub_answers": ["5", "\\frac{1}{12}", "8"], "final_ans": "8", "kind": "wrong_value"}
+{"id": 246, "sub_answers": ["6", "\\frac{1}{12}", "8"], "final_ans": "18", "kind": "wrong_final"}
+{"id": 246, "sub_answers": ["6", "8", "\\frac{1}{12}"], "final_ans": "8", "kind": "sibling_swap"}
+{"id": 253, "sub_answers": ["48", "1"], "final_ans": "\\frac{1}{8}", "kind": "wrong_value"}
+{"id": 253, "sub_answers": ["24", "1"], "final_ans": "\\frac{2}{8}", "kind": "wrong_final"}
+{"id": 253, "sub_answers": ["1", "24"], "final_ans": "\\frac{1}{8}", "kind": "sibling_swap"}
+{"id": 253, "sub_answers": ["23", "24"], "final_ans": "\\frac{1}{8}", "kind": "wrong_value"}
+{"id": 253, "sub_answers": ["24", "24"], "final_ans": "\\frac{10}{8}", "kind": "wrong_final"}
+{"id": 253, "sub_answers": ["24", "\\frac{10}{8}"], "final_ans": "\\frac{1}{8}", "kind": "wrong_value"}
+{"id": 253, "sub_answers": ["24", "\\frac{1}{8}"], "final_ans": "\\frac{11}{8}", "kind": "wrong_final"}
+{"id": 253, "sub_answers": ["\\frac{1}{8}", "24"], "final_ans": "\\frac{1}{8}", "kind": "sibling_swap"}
+{"id": 265, "sub_answers": ["2n - 1", "4006"], "final_ans": "4005", "kind": "wrong_value"}
+{"id": 265, "sub_answers": ["2n - 1", "4005"], "final_ans": "4015", "kind": "wrong_final"}
+{"id": 265, "sub_answers": ["4005", "2n - 1"], "final_ans": "4005", "kind": "sibling_swap"}
+{"id": 271, "sub_answers": ["1", "333", "3970"], "final_ans": "333", "kind": "wrong_value"}
+{"id": 271, "sub_answers": ["1", "333", "397"], "final_ans": "334", "kind": "wrong_final"}
+{"id": 271, "sub_answers": ["1", "397", "333"], "final_ans": "333", "kind": "sibling_swap"}
+{"id": 271, "sub_answers": ["1/2", "333, -332", "397"], "final_ans": "333", "kind": "wrong_value"}
+{"id": 271, "sub_answers": ["1", "333, -332", "397"], "final_ans": "333/2", "kind": "wrong_final"}
+{"id": 271, "sub_answers": ["1", "397", "333, -332"], "final_ans": "333", "kind": "sibling_swap"}
+{"id": 271, "sub_answers": ["1", "343", "393"], "final_ans": "333", "kind": "wrong_value"}
+{"id": 271, "sub_answers": ["1", "333", "393"], "final_ans": "333/2", "kind": "wrong_final"}
+{"id": 271, "sub_answers": ["393", "333", "1"], "final_ans": "333", "kind": "sibling_swap"}
+{"id": 271, "sub_answers": ["2", "333, -332", "393"], "final_ans": "333", "kind": "wrong_value"}
+{"id": 271, "sub_answers": ["1", "333, -332", "393"], "final_ans": "666", "kind": "wrong_final"}
+{"id": 271, "sub_answers": ["393", "333, -332", "1"], "final_ans": "333", "kind": "sibling_swap"}
+{"id": 277, "sub_answers": ["\\text{No}", "53", "\\sqrt{53}"], "final_ans": "\\sqrt{53/2}", "kind": "wrong_final"}
+{"id": 277, "sub_answers": ["53", "\\text{No}", "\\sqrt{53}"], "final_ans": "\\sqrt{53}", "kind": "sibling_swap"}
+{"id": 291, "sub_answers": ["(-5, 5)", "-3/2 \\text{ to } 3", "63"], "final_ans": "63", "kind": "wrong_value"}
+{"id": 291, "sub_answers": ["(-5, 5)", "-3 \\text{ to } 3", "63"], "final_ans": "64", "kind": "wrong_final"}
+{"id": 291, "sub_answers": ["(-5, 5)", "63", "-3 \\text{ to } 3"], "final_ans": "63", "kind": "sibling_swap"}
+{"id": 291, "sub_answers": ["-5 < x < 5", "7 \\text{ to } 3", "63"], "final_ans": "63", "kind": "wrong_value"}
+{"id": 291, "sub_answers": ["-5 < x < 5", "-3 \\text{ to } 3", "63"], "final_ans": "126", "kind": "wrong_final"}
+{"id": 291, "sub_answers": ["-3 \\text{ to } 3", "-5 < x < 5", "63"], "final_ans": "63", "kind": "sibling_swap"}
+{"id": 297, "sub_answers": ["98", "104"], "final_ans": "103", "kind": "wrong_value"}
+{"id": 297, "sub_answers": ["196", "104"], "final_ans": "103/2", "kind": "wrong_final"}
+{"id": 297, "sub_answers": ["104", "196"], "final_ans": "103", "kind": "sibling_swap"}
+{"id": 297, "sub_answers": ["98", "58"], "final_ans": "103", "kind": "wrong_value"}
+{"id": 297, "sub_answers": ["196", "58"], "final_ans": "1030", "kind": "wrong_final"}
+{"id": 297, "sub_answers": ["58", "196"], "final_ans": "103", "kind": "sibling_swap"}
+{"id": 297, "sub_answers": ["196", "206"], "final_ans": "103", "kind": "wrong_value"}
+{"id": 297, "sub_answers": ["196", "103"], "final_ans": "1030", "kind": "wrong_final"}
+{"id": 297, "sub_answers": ["103", "196"], "final_ans": "103", "kind": "sibling_swap"}
+{"id": 297, "sub_answers": ["203", "113"], "final_ans": "103", "kind": "wrong_value"}
+{"id": 297, "sub_answers": ["203", "103"], "final_ans": "206", "kind": "wrong_final"}
+{"id": 297, "sub_answers": ["103", "203"], "final_ans": "103", "kind": "sibling_swap"}
+{"id": 297, "sub_answers": ["210", "103/2"], "final_ans": "103", "kind": "wrong_value"}
+{"id": 297, "sub_answers": ["210", "103"], "final_ans": "103/2", "kind": "wrong_final"}
+{"id": 297, "sub_answers": ["103", "210"], "final_ans": "103", "kind": "sibling_swap"}
+{"id": 321, "sub_answers": ["0.4", "1/200", "10"], "final_ans": "10", "kind": "wrong_value"}
+{"id": 321, "sub_answers": ["0.4", "0.01", "10"], "final_ans": "20", "kind": "wrong_final"}
+{"id": 321, "sub_answers": ["10", "0.01", "0.4"], "final_ans": "10", "kind": "sibling_swap"}
+{"id": 325, "sub_answers": ["720\\pi", "288\\pi", "4"], "final_ans": "4", "kind": "wrong_value"}
+{"id": 325, "sub_answers": ["72\\pi", "288\\pi", "4"], "final_ans": "3", "kind": "wrong_final"}
+{"id": 325, "sub_answers": ["288\\pi", "72\\pi", "4"], "final_ans": "4", "kind": "sibling_swap"}
+{"id": 325, "sub_answers": ["72\\pi \\, \\text{cm}^3", "288\\pi", "5"], "final_ans": "4", "kind": "wrong_value"}
+{"id": 325, "sub_answers": ["72\\pi \\, \\text{cm}^3", "288\\pi", "4"], "final_ans": "8", "kind": "wrong_final"}
+{"id": 325, "sub_answers": ["72\\pi \\, \\text{cm}^3", "4", "288\\pi"], "final_ans": "4", "kind": "sibling_swap"}
+{"id": 325, "sub_answers": ["82\\pi", "288\\pi \\, \\text{cm}^3", "4"], "final_ans": "4", "kind": "wrong_value"}
+{"id": 325, "sub_answers": ["72\\pi", "288\\pi \\, \\text{cm}^3", "4"], "final_ans": "40", "kind": "wrong_final"}
+{"id": 325, "sub_answers": ["288\\pi \\, \\text{cm}^3", "72\\pi", "4"], "final_ans": "4", "kind": "sibling_swap"}
+{"id": 325, "sub_answers": ["72\\pi \\, \\text{cm}^3", "298\\pi \\, \\text{cm}^3", "4"], "final_ans": "4", "kind": "wrong_value"}
+{"id": 325, "sub_answers": ["72\\pi \\, \\text{cm}^3", "288\\pi \\, \\text{cm}^3", "4"], "final_ans": "8", "kind": "wrong_final"}
+{"id": 325, "sub_answers": ["288\\pi \\, \\text{cm}^3", "72\\pi \\, \\text{cm}^3", "4"], "final_ans": "4", "kind": "sibling_swap"}
+{"id": 337, "sub_answers": ["5/2", "4, 5, 6"], "final_ans": "6", "kind": "wrong_value"}
+{"id": 337, "sub_answers": ["5", "4, 5, 6"], "final_ans": "7", "kind": "wrong_final"}
+{"id": 337, "sub_answers": ["4, 5, 6", "5"], "final_ans": "6", "kind": "sibling_swap"}
+{"id": 341, "sub_answers": ["x = 2 \\cdot \\frac{1}{x} - 1", "10"], "final_ans": "-2", "kind": "wrong_value"}
+{"id": 341, "sub_answers": ["x = 2 \\cdot \\frac{1}{x} - 1", "1"], "final_ans": "-1", "kind": "wrong_final"}
+{"id": 341, "sub_answers": ["1", "x = 2 \\cdot \\frac{1}{x} - 1"], "final_ans": "-2", "kind": "sibling_swap"}
+{"id": 341, "sub_answers": ["x = \\frac{12}{x} - 1", "1"], "final_ans": "-2", "kind": "wrong_value"}
+{"id": 341, "sub_answers": ["x = \\frac{2}{x} - 1", "1"], "final_ans": "-20", "kind": "wrong_final"}
+{"id": 341, "sub_answers": ["1", "x = \\frac{2}{x} - 1"], "final_ans": "-2", "kind": "sibling_swap"}
+{"id": 370, "sub_answers": ["-6", "1", "-35"], "final_ans": "-41", "kind": "wrong_value"}
+{"id": 370, "sub_answers": ["-6", "0", "-35"], "final_ans": "-40", "kind": "wrong_final"}
+{"id": 370, "sub_answers": ["-6", "-35", "0"], "final_ans": "-41", "kind": "sibling_swap"}
+{"id": 375, "sub_answers": ["2, 2, 4, 5, 10, 20, 25, 50, 100, 125, 250, 500", "1092", "7 \\text{ and } 157"], "final_ans": "25", "kind": "wrong_value"}
+{"id": 375, "sub_answers": ["1, 2, 4, 5, 10, 20, 25, 50, 100, 125, 250, 500", "1092", "7 \\text{ and } 157"], "final_ans": "50", "kind": "wrong_final"}
+{"id": 375, "sub_answers": ["1, 2, 4, 5, 10, 20, 25, 50, 100, 125, 250, 500", "7 \\text{ and } 157", "1092"], "final_ans": "25", "kind": "sibling_swap"}
+{"id": 375, "sub_answers": ["1, 2, 4, 5, 10, 20, 25, 50, 100, 125, 250, 500", "1092", "3, 3, 7, 13"], "final_ans": "25", "kind": "wrong_value"}
+{"id": 375, "sub_answers": ["1, 2, 4, 5, 10, 20, 25, 50, 100, 125, 250, 500", "1092", "2, 3, 7, 13"], "final_ans": "50", "kind": "wrong_final"}
+{"id": 375, "sub_answers": ["1092", "1, 2, 4, 5, 10, 20, 25, 50, 100, 125, 250, 500", "2, 3, 7, 13"], "final_ans": "25", "kind": "sibling_swap"}
+{"id": 384, "sub_answers": ["15", "-160"], "final_ans": "15x - 80", "kind": "wrong_value"}
+{"id": 384, "sub_answers": ["15", "-80"], "final_ans": "16x - 80", "kind": "wrong_final"}
+{"id": 384, "sub_answers": ["-80", "15"], "final_ans": "15x - 80", "kind": "sibling_swap"}
+{"id": 405, "sub_answers": ["6", "4", "3"], "final_ans": "60", "kind": "wrong_value"}
+{"id": 405, "sub_answers": ["5", "4", "3"], "final_ans": "61", "kind": "wrong_final"}
+{"id": 405, "sub_answers": ["4", "5", "3"], "final_ans": "60", "kind": "sibling_swap"}
+{"id": 410, "sub_answers": ["0", "2, 4, 6, 8", "1/2, 3, 5, 7, 9"], "final_ans": "6", "kind": "wrong_value"}
+{"id": 410, "sub_answers": ["0", "2, 4, 6, 8", "1, 3, 5, 7, 9"], "final_ans": "7", "kind": "wrong_final"}
+{"id": 410, "sub_answers": ["2, 4, 6, 8", "0", "1, 3, 5, 7, 9"], "final_ans": "6", "kind": "sibling_swap"}
+{"id": 410, "sub_answers": ["0", "2, 4, 6, 8", "4, 6, 9"], "final_ans": "6", "kind": "wrong_value"}
+{"id": 410, "sub_answers": ["0", "2, 4, 6, 8", "3, 6, 9"], "final_ans": "16", "kind": "wrong_final"}
+{"id": 410, "sub_answers": ["2, 4, 6, 8", "0", "3, 6, 9"], "final_ans": "6", "kind": "sibling_swap"}
+{"id": 444, "sub_answers": ["x = -125, y = 100, x = 125, y = -100", "\\text{The perpendicular bisectors divide the rectangle into 16 regions, each closer to either the center or one of the vertices.}", "\\frac{1}{2}"], "final_ans": "\\frac{1}{2}", "kind": "wrong_value"}
+{"id": 444, "sub_answers": ["x = -125, y = 100, x = 125, y = -100", "\\text{The perpendicular bisectors divide the rectangle into 8 regions, each closer to either the center or one of the vertices.}", "\\frac{1}{2}"], "final_ans": "\\frac{0}{2}", "kind": "wrong_final"}
+{"id": 444, "sub_answers": ["\\frac{1}{2}", "\\text{The perpendicular bisectors divide the rectangle into 8 regions, each closer to either the center or one of the vertices.}", "x = -125, y = 100, x = 125, y = -100"], "final_ans": "\\frac{1}{2}", "kind": "sibling_swap"}
+{"id": 444, "sub_answers": ["x = -126, y = 100, x = 125, y = -100", "8", "\\frac{1}{2}"], "final_ans": "\\frac{1}{2}", "kind": "wrong_value"}
+{"id": 444, "sub_answers": ["x = -125, y = 100, x = 125, y = -100", "8", "\\frac{1}{2}"], "final_ans": "\\frac{11}{2}", "kind": "wrong_final"}
+{"id": 444, "sub_answers": ["8", "x = -125, y = 100, x = 125, y = -100", "\\frac{1}{2}"], "final_ans": "\\frac{1}{2}", "kind": "sibling_swap"}
+{"id": 444, "sub_answers": ["x = -125/2, y = 100, x = 125, y = -100", "\\text{8 regions}", "\\frac{1}{2}"], "final_ans": "\\frac{1}{2}", "kind": "wrong_value"}
+{"id": 444, "sub_answers": ["x = -125, y = 100, x = 125, y = -100", "\\text{8 regions}", "\\frac{1}{2}"], "final_ans": "\\frac{10}{2}", "kind": "wrong_final"}
+{"id": 444, "sub_answers": ["\\text{8 regions}", "x = -125, y = 100, x = 125, y = -100", "\\frac{1}{2}"], "final_ans": "\\frac{1}{2}", "kind": "sibling_swap"}
+{"id": 444, "sub_answers": ["x^2 + y^2 = \\left(\\frac{k}{k+1}\\right)^2 \\left(\\frac{AB}{2}\\right)^2", "\\text{The perpendicular bisectors divide the rectangle into 9 regions, each closer to either the center or one of the vertices.}", "\\frac{1}{2}"], "final_ans": "\\frac{1}{2}", "kind": "wrong_value"}
+{"id": 444, "sub_answers": ["x^2 + y^2 = \\left(\\frac{k}{k+1}\\right)^2 \\left(\\frac{AB}{2}\\right)^2", "\\text{The perpendicular bisectors divide the rectangle into 8 regions, each closer to either the center or one of the vertices.}", "\\frac{1}{2}"], "final_ans": "\\frac{2}{2}", "kind": "wrong_final"}
+{"id": 444, "sub_answers": ["\\text{The perpendicular bisectors divide the rectangle into 8 regions, each closer to either the center or one of the vertices.}", "x^2 + y^2 = \\left(\\frac{k}{k+1}\\right)^2 \\left(\\frac{AB}{2}\\right)^2", "\\frac{1}{2}"], "final_ans": "\\frac{1}{2}", "kind": "sibling_swap"}
+{"id": 449, "sub_answers": ["45", "4", "-5"], "final_ans": "47", "kind": "wrong_value"}
+{"id": 449, "sub_answers": ["45", "2", "-5"], "final_ans": "47/2", "kind": "wrong_final"}
+{"id": 449, "sub_answers": ["2", "45", "-5"], "final_ans": "47", "kind": "sibling_swap"}
+{"id": 452, "sub_answers": ["13", "27", "142"], "final_ans": "143", "kind": "wrong_value"}
+{"id": 452, "sub_answers": ["13", "27", "143"], "final_ans": "143/2", "kind": "wrong_final"}
+{"id": 452, "sub_answers": ["27", "13", "143"], "final_ans": "143", "kind": "sibling_swap"}
+{"id": 458, "sub_answers": ["32, 37, 41, 43, 47", "53", "41"], "final_ans": "41", "kind": "wrong_value"}
+{"id": 458, "sub_answers": ["31, 37, 41, 43, 47", "53", "41"], "final_ans": "41/2", "kind": "wrong_final"}
+{"id": 458, "sub_answers": ["41", "53", "31, 37, 41, 43, 47"], "final_ans": "41", "kind": "sibling_swap"}
+{"id": 458, "sub_answers": ["47", "106", "41"], "final_ans": "41", "kind": "wrong_value"}
+{"id": 458, "sub_answers": ["47", "53", "41"], "final_ans": "42", "kind": "wrong_final"}
+{"id": 458, "sub_answers": ["47", "41", "53"], "final_ans": "41", "kind": "sibling_swap"}
+{"id": 458, "sub_answers": ["31, 37, 41, 43, 47", "118", "41"], "final_ans": "41", "kind": "wrong_value"}
+{"id": 458, "sub_answers": ["31, 37, 41, 43, 47", "59", "41"], "final_ans": "41/2", "kind": "wrong_final"}
+{"id": 458, "sub_answers": ["41", "59", "31, 37, 41, 43, 47"], "final_ans": "41", "kind": "sibling_swap"}
+{"id": 458, "sub_answers": ["31, 37, 41, 43, 47", "59", "49/2"], "final_ans": "41", "kind": "wrong_value"}
+{"id": 458, "sub_answers": ["31, 37, 41, 43, 47", "59", "49"], "final_ans": "51", "kind": "wrong_final"}
+{"id": 458, "sub_answers": ["31, 37, 41, 43, 47", "49", "59"], "final_ans": "41", "kind": "sibling_swap"}
+{"id": 458, "sub_answers": ["47", "59", "40"], "final_ans": "41", "kind": "wrong_value"}
+{"id": 458, "sub_answers": ["47", "59", "41"], "final_ans": "410", "kind": "wrong_final"}
+{"id": 458, "sub_answers": ["41", "59", "47"], "final_ans": "41", "kind": "sibling_swap"}
+{"id": 473, "sub_answers": ["12n + 1", "2n-9", "n-3, 2n-9, n-1"], "final_ans": "7", "kind": "wrong_value"}
+{"id": 473, "sub_answers": ["2n + 1", "2n-9", "n-3, 2n-9, n-1"], "final_ans": "8", "kind": "wrong_final"}
+{"id": 473, "sub_answers": ["2n-9", "2n + 1", "n-3, 2n-9, n-1"], "final_ans": "7", "kind": "sibling_swap"}
+{"id": 473, "sub_answers": ["3n-1", "2n-9", "(n-3) + (2n-9) + (n-1)"], "final_ans": "7", "kind": "wrong_value"}
+{"id": 473, "sub_answers": ["2n-1", "2n-9", "(n-3) + (2n-9) + (n-1)"], "final_ans": "8", "kind": "wrong_final"}
+{"id": 473, "sub_answers": ["2n-1", "(n-3) + (2n-9) + (n-1)", "2n-9"], "final_ans": "7", "kind": "sibling_swap"}
+{"id": 476, "sub_answers": ["500", "700", "910"], "final_ans": "200", "kind": "wrong_value"}
+{"id": 476, "sub_answers": ["500", "700", "900"], "final_ans": "210", "kind": "wrong_final"}
+{"id": 476, "sub_answers": ["700", "500", "900"], "final_ans": "200", "kind": "sibling_swap"}
+{"id": 476, "sub_answers": ["5000", "700", "200"], "final_ans": "200", "kind": "wrong_value"}
+{"id": 476, "sub_answers": ["500", "700", "200"], "final_ans": "100", "kind": "wrong_final"}
+{"id": 476, "sub_answers": ["200", "700", "500"], "final_ans": "200", "kind": "sibling_swap"}
+{"id": 480, "sub_answers": ["-1", "1"], "final_ans": "1", "kind": "wrong_value"}
+{"id": 480, "sub_answers": ["0", "1"], "final_ans": "2", "kind": "wrong_final"}
+{"id": 480, "sub_answers": ["1", "0"], "final_ans": "1", "kind": "sibling_swap"}
+{"id": 493, "sub_answers": ["15 + 2\\sqrt{6}", "11+9", "11, 9, 0"], "final_ans": "20", "kind": "wrong_value"}
+{"id": 493, "sub_answers": ["5 + 2\\sqrt{6}", "11+9", "11, 9, 0"], "final_ans": "10", "kind": "wrong_final"}
+{"id": 493, "sub_answers": ["11, 9, 0", "11+9", "5 + 2\\sqrt{6}"], "final_ans": "20", "kind": "sibling_swap"}
+{"id": 493, "sub_answers": ["7", "11/2+9", "11, 9, 0"], "final_ans": "20", "kind": "wrong_value"}
+{"id": 493, "sub_answers": ["7", "11+9", "11, 9, 0"], "final_ans": "21", "kind": "wrong_final"}
+{"id": 493, "sub_answers": ["11, 9, 0", "11+9", "7"], "final_ans": "20", "kind": "sibling_swap"}
+{"id": 493, "sub_answers": ["4 + 2\\sqrt{6}", "20", "11, 9, 0"], "final_ans": "20", "kind": "wrong_value"}
+{"id": 493, "sub_answers": ["5 + 2\\sqrt{6}", "20", "11, 9, 0"], "final_ans": "200", "kind": "wrong_final"}
+{"id": 493, "sub_answers": ["5 + 2\\sqrt{6}", "11, 9, 0", "20"], "final_ans": "20", "kind": "sibling_swap"}
+{"id": 493, "sub_answers": ["5 + 2\\sqrt{6}", "12+9", "29"], "final_ans": "20", "kind": "wrong_value"}
+{"id": 493, "sub_answers": ["5 + 2\\sqrt{6}", "11+9", "29"], "final_ans": "19", "kind": "wrong_final"}
+{"id": 493, "sub_answers": ["29", "11+9", "5 + 2\\sqrt{6}"], "final_ans": "20", "kind": "sibling_swap"}
+{"id": 493, "sub_answers": ["5 + 2\\sqrt{6}", "20", "28"], "final_ans": "20", "kind": "wrong_value"}
+{"id": 493, "sub_answers": ["5 + 2\\sqrt{6}", "20", "29"], "final_ans": "10", "kind": "wrong_final"}
+{"id": 493, "sub_answers": ["20", "5 + 2\\sqrt{6}", "29"], "final_ans": "20", "kind": "sibling_swap"}
+{"id": 493, "sub_answers": ["7/2", "11+9", "29"], "final_ans": "20", "kind": "wrong_value"}
+{"id": 493, "sub_answers": ["7", "11+9", "29"], "final_ans": "19", "kind": "wrong_final"}
+{"id": 493, "sub_answers": ["29", "11+9", "7"], "final_ans": "20", "kind": "sibling_swap"}
+{"id": 493, "sub_answers": ["7", "30", "11, 9, 0"], "final_ans": "20", "kind": "wrong_value"}
+{"id": 493, "sub_answers": ["7", "20", "11, 9, 0"], "final_ans": "19", "kind": "wrong_final"}
+{"id": 493, "sub_answers": ["20", "7", "11, 9, 0"], "final_ans": "20", "kind": "sibling_swap"}
+{"id": 2, "sub_answers": ["2", "\\frac{6}{3}", "1"], "final_ans": "\\frac{14}{3}", "kind": "wrong_value"}
+{"id": 2, "sub_answers": ["2", "\\frac{5}{3}", "1"], "final_ans": "\\frac{7}{3}", "kind": "wrong_final"}
+{"id": 2, "sub_answers": ["\\frac{5}{3}", "2", "1"], "final_ans": "\\frac{14}{3}", "kind": "sibling_swap"}
+{"id": 5, "sub_answers": ["14", "6", "42"], "final_ans": "42", "kind": "wrong_value"}
+{"id": 5, "sub_answers": ["7", "6", "42"], "final_ans": "21", "kind": "wrong_final"}
+{"id": 5, "sub_answers": ["6", "7", "42"], "final_ans": "42", "kind": "sibling_swap"}
+{"id": 10, "sub_answers": ["2222220", "2221"], "final_ans": "2220", "kind": "wrong_value"}
+{"id": 10, "sub_answers": ["2222220", "2220"], "final_ans": "2230", "kind": "wrong_final"}
+{"id": 10, "sub_answers": ["2220", "2222220"], "final_ans": "2220", "kind": "sibling_swap"}
+{"id": 10, "sub_answers": ["2220", "2221"], "final_ans": "2220", "kind": "wrong_value"}
+{"id": 10, "sub_answers": ["2220", "2220"], "final_ans": "2221", "kind": "wrong_final"}
+{"id": 10, "sub_answers": ["2222222220", "2219"], "final_ans": "2220", "kind": "wrong_value"}
+{"id": 10, "sub_answers": ["2222222220", "2220"], "final_ans": "2221", "kind": "wrong_final"}
+{"id": 10, "sub_answers": ["2220", "2222222220"], "final_ans": "2220", "kind": "sibling_swap"}
+{"id": 22, "sub_answers": ["16 + 4x", "160 + x", "5"], "final_ans": "5", "kind": "wrong_value"}
+{"id": 22, "sub_answers": ["16 + 4x", "16 + x", "5"], "final_ans": "6", "kind": "wrong_final"}
+{"id": 22, "sub_answers": ["16 + x", "16 + 4x", "5"], "final_ans": "5", "kind": "sibling_swap"}
+{"id": 29, "sub_answers": ["5", "55"], "final_ans": "225", "kind": "wrong_value"}
+{"id": 29, "sub_answers": ["5", "45"], "final_ans": "2250", "kind": "wrong_final"}
+{"id": 29, "sub_answers": ["45", "5"], "final_ans": "225", "kind": "sibling_swap"}
+{"id": 44, "sub_answers": ["1.00", "0.75", "5/8"], "final_ans": "1.25", "kind": "wrong_value"}
+{"id": 44, "sub_answers": ["1.00", "0.75", "1.25"], "final_ans": "45/4", "kind": "wrong_final"}
+{"id": 44, "sub_answers": ["1.25", "0.75", "1.00"], "final_ans": "1.25", "kind": "sibling_swap"}
+{"id": 70, "sub_answers": ["4", "\\text{No}", "34_9"], "final_ans": "40_9", "kind": "wrong_value"}
+{"id": 70, "sub_answers": ["4", "\\text{No}", "17_9"], "final_ans": "41_9", "kind": "wrong_final"}
+{"id": 70, "sub_answers": ["4", "17_9", "\\text{No}"], "final_ans": "40_9", "kind": "sibling_swap"}
+{"id": 70, "sub_answers": ["8, 0", "\\text{No}", "17_9"], "final_ans": "40_9", "kind": "wrong_value"}
+{"id": 70, "sub_answers": ["4, 0", "\\text{No}", "17_9"], "final_ans": "39_9", "kind": "wrong_final"}
+{"id": 70, "sub_answers": ["\\text{No}", "4, 0", "17_9"], "final_ans": "40_9", "kind": "sibling_swap"}
+{"id": 70, "sub_answers": ["4", "\\text{No}", "70"], "final_ans": "40_9", "kind": "wrong_value"}
+{"id": 70, "sub_answers": ["4", "\\text{No}", "7"], "final_ans": "400_9", "kind": "wrong_final"}
+{"id": 70, "sub_answers": ["\\text{No}", "4", "7"], "final_ans": "40_9", "kind": "sibling_swap"}
+{"id": 70, "sub_answers": ["4, 0", "\\text{No}", "7"], "final_ans": "41_9", "kind": "wrong_final"}
+{"id": 70, "sub_answers": ["\\text{No}", "4, 0", "7"], "final_ans": "40_9", "kind": "sibling_swap"}
+{"id": 70, "sub_answers": ["2, 0", "\\text{No}", "9"], "final_ans": "40_9", "kind": "wrong_value"}
+{"id": 70, "sub_answers": ["4, 0", "\\text{No}", "9"], "final_ans": "50_9", "kind": "wrong_final"}
+{"id": 70, "sub_answers": ["4, 0", "9", "\\text{No}"], "final_ans": "40_9", "kind": "sibling_swap"}
+{"id": 81, "sub_answers": ["1", "6"], "final_ans": "3", "kind": "wrong_value"}
+{"id": 81, "sub_answers": ["1", "3"], "final_ans": "4", "kind": "wrong_final"}
+{"id": 81, "sub_answers": ["3", "1"], "final_ans": "3", "kind": "sibling_swap"}
+{"id": 98, "sub_answers": ["2", "1"], "final_ans": "2k + 2", "kind": "wrong_value"}
+{"id": 98, "sub_answers": ["2", "2"], "final_ans": "4k + 2", "kind": "wrong_final"}
+{"id": 102, "sub_answers": ["b", "1", "(a + 5)(b + 2)"], "final_ans": "(a + 5)(b + 2)", "kind": "wrong_value"}
+{"id": 102, "sub_answers": ["b", "2", "(a + 5)(b + 2)"], "final_ans": "(a + 50)(b + 2)", "kind": "wrong_final"}
+{"id": 102, "sub_answers": ["2", "b", "(a + 5)(b + 2)"], "final_ans": "(a + 5)(b + 2)", "kind": "sibling_swap"}
+{"id": 102, "sub_answers": ["b", "2", "(b + 4)(a + 5)"], "final_ans": "(b + 2)(a + 5)", "kind": "wrong_value"}
+{"id": 102, "sub_answers": ["b", "2", "(b + 2)(a + 5)"], "final_ans": "(b + 1)(a + 5)", "kind": "wrong_final"}
+{"id": 102, "sub_answers": ["2", "b", "(b + 2)(a + 5)"], "final_ans": "(b + 2)(a + 5)", "kind": "sibling_swap"}
+{"id": 117, "sub_answers": ["4", "30"], "final_ans": "3", "kind": "wrong_value"}
+{"id": 117, "sub_answers": ["4", "3"], "final_ans": "3/2", "kind": "wrong_final"}
+{"id": 117, "sub_answers": ["3", "4"], "final_ans": "3", "kind": "sibling_swap"}
+{"id": 121, "sub_answers": ["7", "\\frac{5x}{6}", "6"], "final_ans": "6", "kind": "wrong_value"}
+{"id": 121, "sub_answers": ["6", "\\frac{5x}{6}", "6"], "final_ans": "5", "kind": "wrong_final"}
+{"id": 121, "sub_answers": ["6", "6", "\\frac{5x}{6}"], "final_ans": "6", "kind": "sibling_swap"}
+{"id": 146, "sub_answers": ["3/2\\sqrt{3}", "1"], "final_ans": "\\frac{\\sqrt{3}}{3}", "kind": "wrong_value"}
+{"id": 146, "sub_answers": ["3\\sqrt{3}", "1"], "final_ans": "\\frac{\\sqrt{2}}{3}", "kind": "wrong_final"}
+{"id": 146, "sub_answers": ["1", "3\\sqrt{3}"], "final_ans": "\\frac{\\sqrt{3}}{3}", "kind": "sibling_swap"}
+{"id": 174, "sub_answers": ["-1", "10, 1, \\text{or } 2"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 174, "sub_answers": ["-1", "0, 1, \\text{or } 2"], "final_ans": "4", "kind": "wrong_final"}
+{"id": 174, "sub_answers": ["0, 1, \\text{or } 2", "-1"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 174, "sub_answers": ["-10", "2"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 174, "sub_answers": ["-1", "2"], "final_ans": "12", "kind": "wrong_final"}
+{"id": 174, "sub_answers": ["2", "-1"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 177, "sub_answers": ["2", "300", "60"], "final_ans": "30", "kind": "wrong_value"}
+{"id": 177, "sub_answers": ["2", "30", "60"], "final_ans": "15", "kind": "wrong_final"}
+{"id": 177, "sub_answers": ["60", "30", "2"], "final_ans": "30", "kind": "sibling_swap"}
+{"id": 198, "sub_answers": ["10080", "721", "1008"], "final_ans": "10080", "kind": "wrong_value"}
+{"id": 198, "sub_answers": ["10080", "720", "1008"], "final_ans": "10090", "kind": "wrong_final"}
+{"id": 198, "sub_answers": ["720", "10080", "1008"], "final_ans": "10080", "kind": "sibling_swap"}
+{"id": 198, "sub_answers": ["14", "720", "10080"], "final_ans": "10080", "kind": "wrong_value"}
+{"id": 198, "sub_answers": ["14", "720", "1008"], "final_ans": "10090", "kind": "wrong_final"}
+{"id": 198, "sub_answers": ["1008", "720", "14"], "final_ans": "10080", "kind": "sibling_swap"}
+{"id": 202, "sub_answers": ["\\frac{1}{2}", "\\frac{1}{2}", "\\frac{2}{2}"], "final_ans": "\\frac{2}{3}", "kind": "wrong_value"}
+{"id": 202, "sub_answers": ["\\frac{1}{2}", "\\frac{1}{2}", "\\frac{1}{2}"], "final_ans": "\\frac{1}{3}", "kind": "wrong_final"}
+{"id": 202, "sub_answers": ["\\frac{1}{2}", "\\frac{11}{2}", "\\frac{1}{4}"], "final_ans": "\\frac{2}{3}", "kind": "wrong_value"}
+{"id": 202, "sub_answers": ["\\frac{1}{2}", "\\frac{1}{2}", "\\frac{1}{4}"], "final_ans": "\\frac{1}{3}", "kind": "wrong_final"}
+{"id": 202, "sub_answers": ["\\frac{1}{2}", "\\frac{2}{2}", "1"], "final_ans": "\\frac{2}{3}", "kind": "wrong_value"}
+{"id": 202, "sub_answers": ["\\frac{1}{2}", "\\frac{1}{2}", "1"], "final_ans": "\\frac{12}{3}", "kind": "wrong_final"}
+{"id": 202, "sub_answers": ["\\frac{1}{2}", "1", "\\frac{1}{2}"], "final_ans": "\\frac{2}{3}", "kind": "sibling_swap"}
+{"id": 220, "sub_answers": ["\\frac{4}{3}", "\\frac{8}{9}", "\\frac{160}{27}"], "final_ans": "\\frac{16}{27}", "kind": "wrong_value"}
+{"id": 220, "sub_answers": ["\\frac{4}{3}", "\\frac{8}{9}", "\\frac{16}{27}"], "final_ans": "\\frac{32}{27}", "kind": "wrong_final"}
+{"id": 220, "sub_answers": ["\\frac{8}{9}", "\\frac{4}{3}", "\\frac{16}{27}"], "final_ans": "\\frac{16}{27}", "kind": "sibling_swap"}
+{"id": 254, "sub_answers": ["28", "70", "28"], "final_ans": "28", "kind": "wrong_value"}
+{"id": 254, "sub_answers": ["28", "7", "28"], "final_ans": "38", "kind": "wrong_final"}
+{"id": 254, "sub_answers": ["28", "28", "7"], "final_ans": "28", "kind": "sibling_swap"}
+{"id": 263, "sub_answers": ["23^\\circ", "\\text{The measure of an exterior angle is } \\frac{360^\\circ}{n}, \\text{ where } n \\text{ is the number of sides.}"], "final_ans": "15", "kind": "wrong_value"}
+{"id": 263, "sub_answers": ["24^\\circ", "\\text{The measure of an exterior angle is } \\frac{360^\\circ}{n}, \\text{ where } n \\text{ is the number of sides.}"], "final_ans": "150", "kind": "wrong_final"}
+{"id": 263, "sub_answers": ["\\text{The measure of an exterior angle is } \\frac{360^\\circ}{n}, \\text{ where } n \\text{ is the number of sides.}", "24^\\circ"], "final_ans": "15", "kind": "sibling_swap"}
+{"id": 263, "sub_answers": ["25^\\circ", "\\text{The measure of each exterior angle is } \\frac{360^\\circ}{n}, \\text{ where } n \\text{ is the number of sides.}"], "final_ans": "15", "kind": "wrong_value"}
+{"id": 263, "sub_answers": ["24^\\circ", "\\text{The measure of each exterior angle is } \\frac{360^\\circ}{n}, \\text{ where } n \\text{ is the number of sides.}"], "final_ans": "150", "kind": "wrong_final"}
+{"id": 263, "sub_answers": ["\\text{The measure of each exterior angle is } \\frac{360^\\circ}{n}, \\text{ where } n \\text{ is the number of sides.}", "24^\\circ"], "final_ans": "15", "kind": "sibling_swap"}
+{"id": 263, "sub_answers": ["23^\\circ", "x = \\frac{360}{n}"], "final_ans": "15", "kind": "wrong_value"}
+{"id": 263, "sub_answers": ["24^\\circ", "x = \\frac{360}{n}"], "final_ans": "150", "kind": "wrong_final"}
+{"id": 263, "sub_answers": ["x = \\frac{360}{n}", "24^\\circ"], "final_ans": "15", "kind": "sibling_swap"}
+{"id": 269, "sub_answers": ["4", "48", "6"], "final_ans": "6", "kind": "wrong_value"}
+{"id": 269, "sub_answers": ["4", "24", "6"], "final_ans": "3", "kind": "wrong_final"}
+{"id": 269, "sub_answers": ["6", "24", "4"], "final_ans": "6", "kind": "sibling_swap"}
+{"id": 274, "sub_answers": ["18", "1\\pi", "18 + \\frac{9\\pi}{2}"], "final_ans": "18 + 2\\pi", "kind": "wrong_value"}
+{"id": 274, "sub_answers": ["18", "2\\pi", "18 + \\frac{9\\pi}{2}"], "final_ans": "19 + 2\\pi", "kind": "wrong_final"}
+{"id": 274, "sub_answers": ["18", "18 + \\frac{9\\pi}{2}", "2\\pi"], "final_ans": "18 + 2\\pi", "kind": "sibling_swap"}
+{"id": 299, "sub_answers": ["(-6, 5)", "-3 \\text{ to } 3", "63"], "final_ans": "63", "kind": "wrong_value"}
+{"id": 299, "sub_answers": ["(-5, 5)", "-3 \\text{ to } 3", "63"], "final_ans": "62", "kind": "wrong_final"}
+{"id": 299, "sub_answers": ["63", "-3 \\text{ to } 3", "(-5, 5)"], "final_ans": "63", "kind": "sibling_swap"}
+{"id": 299, "sub_answers": ["-4 \\text{ to } 4", "-2 \\text{ to } 3", "63"], "final_ans": "63", "kind": "wrong_value"}
+{"id": 299, "sub_answers": ["-4 \\text{ to } 4", "-3 \\text{ to } 3", "63"], "final_ans": "126", "kind": "wrong_final"}
+{"id": 299, "sub_answers": ["63", "-3 \\text{ to } 3", "-4 \\text{ to } 4"], "final_ans": "63", "kind": "sibling_swap"}
+{"id": 299, "sub_answers": ["-4 \\text{ to } 4", "(-4, 4)", "64"], "final_ans": "63", "kind": "wrong_value"}
+{"id": 299, "sub_answers": ["-4 \\text{ to } 4", "(-4, 4)", "63"], "final_ans": "126", "kind": "wrong_final"}
+{"id": 299, "sub_answers": ["(-4, 4)", "-4 \\text{ to } 4", "63"], "final_ans": "63", "kind": "sibling_swap"}
+{"id": 311, "sub_answers": ["1, 3, 6, 10, 15, 21, 28, 36", "5"], "final_ans": "3", "kind": "wrong_value"}
+{"id": 311, "sub_answers": ["1, 3, 6, 10, 15, 21, 28, 36", "6"], "final_ans": "2", "kind": "wrong_final"}
+{"id": 311, "sub_answers": ["6", "1, 3, 6, 10, 15, 21, 28, 36"], "final_ans": "3", "kind": "sibling_swap"}
+{"id": 323, "sub_answers": ["\\frac{1}{6}", "0"], "final_ans": "\\frac{1}{3}", "kind": "wrong_value"}
+{"id": 323, "sub_answers": ["\\frac{1}{6}", "1"], "final_ans": "\\frac{10}{3}", "kind": "wrong_final"}
+{"id": 323, "sub_answers": ["1", "\\frac{1}{6}"], "final_ans": "\\frac{1}{3}", "kind": "sibling_swap"}
+{"id": 323, "sub_answers": ["\\frac{1}{3}", "1/2"], "final_ans": "\\frac{1}{3}", "kind": "wrong_value"}
+{"id": 323, "sub_answers": ["\\frac{1}{3}", "1"], "final_ans": "\\frac{0}{3}", "kind": "wrong_final"}
+{"id": 323, "sub_answers": ["1", "\\frac{1}{3}"], "final_ans": "\\frac{1}{3}", "kind": "sibling_swap"}
+{"id": 339, "sub_answers": ["b = -1ah, c = ah^2 + k", "(x, 2k - y)", "a + d"], "final_ans": "2k", "kind": "wrong_value"}
+{"id": 339, "sub_answers": ["b = -2ah, c = ah^2 + k", "(x, 2k - y)", "a + d"], "final_ans": "1k", "kind": "wrong_final"}
+{"id": 339, "sub_answers": ["a + d", "(x, 2k - y)", "b = -2ah, c = ah^2 + k"], "final_ans": "2k", "kind": "sibling_swap"}
+{"id": 339, "sub_answers": ["k = c - \\frac{b^3}{4a}", "(x, 2k - y)", "a + d"], "final_ans": "2k", "kind": "wrong_value"}
+{"id": 339, "sub_answers": ["k = c - \\frac{b^2}{4a}", "(x, 2k - y)", "a + d"], "final_ans": "3k", "kind": "wrong_final"}
+{"id": 339, "sub_answers": ["(x, 2k - y)", "k = c - \\frac{b^2}{4a}", "a + d"], "final_ans": "2k", "kind": "sibling_swap"}
+{"id": 339, "sub_answers": ["b = -2ah, c = ah^2 + k", "(x, 1k - y)", "a + b + 2c"], "final_ans": "2k", "kind": "wrong_value"}
+{"id": 339, "sub_answers": ["b = -2ah, c = ah^2 + k", "(x, 2k - y)", "a + b + 2c"], "final_ans": "1k", "kind": "wrong_final"}
+{"id": 339, "sub_answers": ["b = -2ah, c = ah^2 + k", "a + b + 2c", "(x, 2k - y)"], "final_ans": "2k", "kind": "sibling_swap"}
+{"id": 339, "sub_answers": ["c = a h^2 + k", "(x, 3k - y)", "d = a"], "final_ans": "2k", "kind": "wrong_value"}
+{"id": 339, "sub_answers": ["c = a h^2 + k", "(x, 2k - y)", "d = a"], "final_ans": "4k", "kind": "wrong_final"}
+{"id": 339, "sub_answers": ["c = a h^2 + k", "d = a", "(x, 2k - y)"], "final_ans": "2k", "kind": "sibling_swap"}
+{"id": 343, "sub_answers": ["6500", "90"], "final_ans": "58500", "kind": "wrong_value"}
+{"id": 343, "sub_answers": ["650", "90"], "final_ans": "58501", "kind": "wrong_final"}
+{"id": 343, "sub_answers": ["90", "650"], "final_ans": "58500", "kind": "sibling_swap"}
+{"id": 353, "sub_answers": ["24", "10", "72"], "final_ans": "480", "kind": "wrong_value"}
+{"id": 353, "sub_answers": ["24", "10", "144"], "final_ans": "481", "kind": "wrong_final"}
+{"id": 353, "sub_answers": ["144", "10", "24"], "final_ans": "480", "kind": "sibling_swap"}
+{"id": 353, "sub_answers": ["24", "9", "480"], "final_ans": "480", "kind": "wrong_value"}
+{"id": 353, "sub_answers": ["24", "10", "480"], "final_ans": "960", "kind": "wrong_final"}
+{"id": 353, "sub_answers": ["480", "10", "24"], "final_ans": "480", "kind": "sibling_swap"}
+{"id": 376, "sub_answers": ["\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}", "y = x - 10", "(4, -2)"], "final_ans": "(8, -2)", "kind": "wrong_value"}
+{"id": 376, "sub_answers": ["\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}", "y = x - 10", "(8, -2)"], "final_ans": "(7, -2)", "kind": "wrong_final"}
+{"id": 376, "sub_answers": ["(8, -2)", "y = x - 10", "\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"], "final_ans": "(8, -2)", "kind": "sibling_swap"}
+{"id": 387, "sub_answers": ["20", "-7"], "final_ans": "18", "kind": "wrong_value"}
+{"id": 387, "sub_answers": ["20", "-6"], "final_ans": "9", "kind": "wrong_final"}
+{"id": 387, "sub_answers": ["-6", "20"], "final_ans": "18", "kind": "sibling_swap"}
+{"id": 403, "sub_answers": ["1556_7", "2330_8", "2"], "final_ans": "3", "kind": "wrong_value"}
+{"id": 403, "sub_answers": ["1556_7", "1165_8", "2"], "final_ans": "2", "kind": "wrong_final"}
+{"id": 403, "sub_answers": ["2", "1165_8", "1556_7"], "final_ans": "3", "kind": "sibling_swap"}
+{"id": 406, "sub_answers": ["167/2", "2004"], "final_ans": "0", "kind": "wrong_value"}
+{"id": 406, "sub_answers": ["167", "2004"], "final_ans": "0", "kind": "wrong_final"}
+{"id": 406, "sub_answers": ["2004", "167"], "final_ans": "0", "kind": "sibling_swap"}
+{"id": 417, "sub_answers": ["4x^4 - 12x^3 + 23x^2 - 31x + 15", "-2"], "final_ans": "-2", "kind": "wrong_value"}
+{"id": 417, "sub_answers": ["3x^4 - 12x^3 + 23x^2 - 31x + 15", "-2"], "final_ans": "-4", "kind": "wrong_final"}
+{"id": 417, "sub_answers": ["-2", "3x^4 - 12x^3 + 23x^2 - 31x + 15"], "final_ans": "-2", "kind": "sibling_swap"}
+{"id": 417, "sub_answers": ["3x^4 - 12x^3 + 23x^2 - 27x + 9", "8"], "final_ans": "-2", "kind": "wrong_value"}
+{"id": 417, "sub_answers": ["3x^4 - 12x^3 + 23x^2 - 27x + 9", "-2"], "final_ans": "-3", "kind": "wrong_final"}
+{"id": 417, "sub_answers": ["-2", "3x^4 - 12x^3 + 23x^2 - 27x + 9"], "final_ans": "-2", "kind": "sibling_swap"}
+{"id": 433, "sub_answers": ["2^5 \\times 5", "10", "\\frac{285}{800}"], "final_ans": "0.35625", "kind": "wrong_value"}
+{"id": 433, "sub_answers": ["2^5 \\times 5", "5", "\\frac{285}{800}"], "final_ans": "57/80", "kind": "wrong_final"}
+{"id": 433, "sub_answers": ["\\frac{285}{800}", "5", "2^5 \\times 5"], "final_ans": "0.35625", "kind": "sibling_swap"}
+{"id": 433, "sub_answers": ["2^5 \\times 5", "50", "125"], "final_ans": "0.35625", "kind": "wrong_value"}
+{"id": 433, "sub_answers": ["2^5 \\times 5", "5", "125"], "final_ans": "1657/160", "kind": "wrong_final"}
+{"id": 433, "sub_answers": ["2^5 \\times 5", "125", "5"], "final_ans": "0.35625", "kind": "sibling_swap"}
+{"id": 433, "sub_answers": ["1^5 \\times 5", "5", "\\frac{57 \\times 5}{160 \\times 5} = \\frac{285}{800}"], "final_ans": "0.35625", "kind": "wrong_value"}
+{"id": 433, "sub_answers": ["2^5 \\times 5", "5", "\\frac{57 \\times 5}{160 \\times 5} = \\frac{285}{800}"], "final_ans": "57/320", "kind": "wrong_final"}
+{"id": 433, "sub_answers": ["5", "2^5 \\times 5", "\\frac{57 \\times 5}{160 \\times 5} = \\frac{285}{800}"], "final_ans": "0.35625", "kind": "sibling_swap"}
+{"id": 433, "sub_answers": ["2^5 \\times 5", "4", "250"], "final_ans": "0.35625", "kind": "wrong_value"}
+{"id": 433, "sub_answers": ["2^5 \\times 5", "4", "125"], "final_ans": "57/16", "kind": "wrong_final"}
+{"id": 433, "sub_answers": ["4", "2^5 \\times 5", "125"], "final_ans": "0.35625", "kind": "sibling_swap"}
+{"id": 433, "sub_answers": ["20^5 \\times 5", "4", "\\frac{57 \\times 5}{160 \\times 5} = \\frac{285}{800}"], "final_ans": "0.35625", "kind": "wrong_value"}
+{"id": 433, "sub_answers": ["2^5 \\times 5", "4", "\\frac{57 \\times 5}{160 \\times 5} = \\frac{285}{800}"], "final_ans": "57/320", "kind": "wrong_final"}
+{"id": 433, "sub_answers": ["4", "2^5 \\times 5", "\\frac{57 \\times 5}{160 \\times 5} = \\frac{285}{800}"], "final_ans": "0.35625", "kind": "sibling_swap"}
+{"id": 437, "sub_answers": ["2", "2"], "final_ans": "3", "kind": "wrong_value"}
+{"id": 437, "sub_answers": ["2", "3"], "final_ans": "3/2", "kind": "wrong_final"}
+{"id": 437, "sub_answers": ["3", "2"], "final_ans": "3", "kind": "sibling_swap"}
+{"id": 453, "sub_answers": ["1170", "\\frac{51}{117}", "\\frac{5}{9}"], "final_ans": "10", "kind": "wrong_value"}
+{"id": 453, "sub_answers": ["1170", "\\frac{52}{117}", "\\frac{5}{9}"], "final_ans": "100", "kind": "wrong_final"}
+{"id": 453, "sub_answers": ["\\frac{52}{117}", "1170", "\\frac{5}{9}"], "final_ans": "10", "kind": "sibling_swap"}
+{"id": 453, "sub_answers": ["585", "\\frac{4}{9}", "\\frac{5}{9}"], "final_ans": "10", "kind": "wrong_value"}
+{"id": 453, "sub_answers": ["1170", "\\frac{4}{9}", "\\frac{5}{9}"], "final_ans": "20", "kind": "wrong_final"}
+{"id": 453, "sub_answers": ["\\frac{4}{9}", "1170", "\\frac{5}{9}"], "final_ans": "10", "kind": "sibling_swap"}
+{"id": 453, "sub_answers": ["1170", "\\frac{520}{1170}", "\\frac{6}{9}"], "final_ans": "10", "kind": "wrong_value"}
+{"id": 453, "sub_answers": ["1170", "\\frac{520}{1170}", "\\frac{5}{9}"], "final_ans": "9", "kind": "wrong_final"}
+{"id": 453, "sub_answers": ["1170", "\\frac{5}{9}", "\\frac{520}{1170}"], "final_ans": "10", "kind": "sibling_swap"}
+{"id": 453, "sub_answers": ["1170", "\\frac{52}{117}", "\\frac{26}{23}"], "final_ans": "10", "kind": "wrong_value"}
+{"id": 453, "sub_answers": ["1170", "\\frac{52}{117}", "\\frac{13}{23}"], "final_ans": "100", "kind": "wrong_final"}
+{"id": 453, "sub_answers": ["\\frac{52}{117}", "1170", "\\frac{13}{23}"], "final_ans": "10", "kind": "sibling_swap"}
+{"id": 453, "sub_answers": ["1170", "\\frac{52}{117}", "\\frac{651}{1170}"], "final_ans": "10", "kind": "wrong_value"}
+{"id": 453, "sub_answers": ["1170", "\\frac{52}{117}", "\\frac{650}{1170}"], "final_ans": "20", "kind": "wrong_final"}
+{"id": 453, "sub_answers": ["\\frac{650}{1170}", "\\frac{52}{117}", "1170"], "final_ans": "10", "kind": "sibling_swap"}
+{"id": 453, "sub_answers": ["585", "\\frac{4}{9}", "\\frac{13}{23}"], "final_ans": "10", "kind": "wrong_value"}
+{"id": 453, "sub_answers": ["1170", "\\frac{4}{9}", "\\frac{13}{23}"], "final_ans": "11", "kind": "wrong_final"}
+{"id": 453, "sub_answers": ["\\frac{13}{23}", "\\frac{4}{9}", "1170"], "final_ans": "10", "kind": "sibling_swap"}
+{"id": 453, "sub_answers": ["1170", "\\frac{14}{9}", "\\frac{650}{1170}"], "final_ans": "10", "kind": "wrong_value"}
+{"id": 453, "sub_answers": ["1170", "\\frac{4}{9}", "\\frac{650}{1170}"], "final_ans": "100", "kind": "wrong_final"}
+{"id": 453, "sub_answers": ["\\frac{650}{1170}", "\\frac{4}{9}", "1170"], "final_ans": "10", "kind": "sibling_swap"}
+{"id": 453, "sub_answers": ["1170", "\\frac{520}{1170}", "\\frac{12}{23}"], "final_ans": "10", "kind": "wrong_value"}
+{"id": 453, "sub_answers": ["1170", "\\frac{520}{1170}", "\\frac{13}{23}"], "final_ans": "9", "kind": "wrong_final"}
+{"id": 453, "sub_answers": ["1170", "\\frac{13}{23}", "\\frac{520}{1170}"], "final_ans": "10", "kind": "sibling_swap"}
+{"id": 453, "sub_answers": ["1170", "\\frac{260}{1170}", "\\frac{650}{1170}"], "final_ans": "10", "kind": "wrong_value"}
+{"id": 453, "sub_answers": ["1170", "\\frac{520}{1170}", "\\frac{650}{1170}"], "final_ans": "20", "kind": "wrong_final"}
+{"id": 453, "sub_answers": ["\\frac{650}{1170}", "\\frac{520}{1170}", "1170"], "final_ans": "10", "kind": "sibling_swap"}
+{"id": 474, "sub_answers": ["3", "3/2"], "final_ans": "3", "kind": "wrong_value"}
+{"id": 474, "sub_answers": ["3", "3"], "final_ans": "13", "kind": "wrong_final"}
+{"id": 477, "sub_answers": ["17 \\text{ to } 64", "1"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 477, "sub_answers": ["16 \\text{ to } 64", "1"], "final_ans": "1", "kind": "wrong_final"}
+{"id": 477, "sub_answers": ["1", "16 \\text{ to } 64"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 477, "sub_answers": ["16 \\text{ to } 86", "2"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 477, "sub_answers": ["16 \\text{ to } 86", "1"], "final_ans": "20", "kind": "wrong_final"}
+{"id": 477, "sub_answers": ["1", "16 \\text{ to } 86"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 477, "sub_answers": ["36 \\text{ and } 64", "4"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 477, "sub_answers": ["36 \\text{ and } 64", "2"], "final_ans": "3", "kind": "wrong_final"}
+{"id": 477, "sub_answers": ["2", "36 \\text{ and } 64"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 6, "sub_answers": ["n, n+2, n+2", "n^3", "8"], "final_ans": "27", "kind": "wrong_value"}
+{"id": 6, "sub_answers": ["n, n+1, n+2", "n^3", "8"], "final_ans": "26", "kind": "wrong_final"}
+{"id": 6, "sub_answers": ["8", "n^3", "n, n+1, n+2"], "final_ans": "27", "kind": "sibling_swap"}
+{"id": 12, "sub_answers": ["219", "284"], "final_ans": "284", "kind": "wrong_value"}
+{"id": 12, "sub_answers": ["220", "284"], "final_ans": "142", "kind": "wrong_final"}
+{"id": 12, "sub_answers": ["284", "220"], "final_ans": "284", "kind": "sibling_swap"}
+{"id": 27, "sub_answers": ["36", "40", "35"], "final_ans": "78", "kind": "wrong_value"}
+{"id": 27, "sub_answers": ["18", "40", "35"], "final_ans": "780", "kind": "wrong_final"}
+{"id": 27, "sub_answers": ["18", "35", "40"], "final_ans": "78", "kind": "sibling_swap"}
+{"id": 40, "sub_answers": ["96", "8", "6"], "final_ans": "12", "kind": "wrong_value"}
+{"id": 40, "sub_answers": ["96", "8", "12"], "final_ans": "22", "kind": "wrong_final"}
+{"id": 40, "sub_answers": ["8", "96", "12"], "final_ans": "12", "kind": "sibling_swap"}
+{"id": 40, "sub_answers": ["95 \\text{ cm}", "8", "12"], "final_ans": "12", "kind": "wrong_value"}
+{"id": 40, "sub_answers": ["96 \\text{ cm}", "8", "12"], "final_ans": "120", "kind": "wrong_final"}
+{"id": 40, "sub_answers": ["12", "8", "96 \\text{ cm}"], "final_ans": "12", "kind": "sibling_swap"}
+{"id": 40, "sub_answers": ["96", "18", "12\\, \\text{cm}"], "final_ans": "12", "kind": "wrong_value"}
+{"id": 40, "sub_answers": ["96", "8", "12\\, \\text{cm}"], "final_ans": "120", "kind": "wrong_final"}
+{"id": 40, "sub_answers": ["96", "12\\, \\text{cm}", "8"], "final_ans": "12", "kind": "sibling_swap"}
+{"id": 54, "sub_answers": ["100", "0.6", "3/10"], "final_ans": "0.15", "kind": "wrong_value"}
+{"id": 54, "sub_answers": ["100", "0.6", "0.15"], "final_ans": "3/2", "kind": "wrong_final"}
+{"id": 54, "sub_answers": ["100", "0.15", "0.6"], "final_ans": "0.15", "kind": "sibling_swap"}
+{"id": 58, "sub_answers": ["19602", "99", "100"], "final_ans": "9901", "kind": "wrong_value"}
+{"id": 58, "sub_answers": ["9801", "99", "100"], "final_ans": "9902", "kind": "wrong_final"}
+{"id": 58, "sub_answers": ["99", "9801", "100"], "final_ans": "9901", "kind": "sibling_swap"}
+{"id": 79, "sub_answers": ["3^3 \\cdot 3^2", "3", "x = 2"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 79, "sub_answers": ["2^3 \\cdot 3^2", "3", "x = 2"], "final_ans": "4", "kind": "wrong_final"}
+{"id": 79, "sub_answers": ["3", "2^3 \\cdot 3^2", "x = 2"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 79, "sub_answers": ["4^3 \\cdot 3^2", "3", "3^x = 3^2"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 79, "sub_answers": ["2^3 \\cdot 3^2", "3", "3^x = 3^2"], "final_ans": "3", "kind": "wrong_final"}
+{"id": 79, "sub_answers": ["3^x = 3^2", "3", "2^3 \\cdot 3^2"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 79, "sub_answers": ["2^3 \\cdot 3^2", "3", "20"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 79, "sub_answers": ["2^3 \\cdot 3^2", "3", "2"], "final_ans": "4", "kind": "wrong_final"}
+{"id": 79, "sub_answers": ["2^3 \\cdot 3^2", "2", "3"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 85, "sub_answers": ["19\\pi", "5\\pi", "\\sqrt{5}"], "final_ans": "\\sqrt{5}", "kind": "wrong_value"}
+{"id": 85, "sub_answers": ["20\\pi", "5\\pi", "\\sqrt{5}"], "final_ans": "\\sqrt{4}", "kind": "wrong_final"}
+{"id": 85, "sub_answers": ["\\sqrt{5}", "5\\pi", "20\\pi"], "final_ans": "\\sqrt{5}", "kind": "sibling_swap"}
+{"id": 92, "sub_answers": ["\\frac{0}{5}", "35", "\\frac{448}{15625}"], "final_ans": "\\frac{448}{15625}", "kind": "wrong_value"}
+{"id": 92, "sub_answers": ["\\frac{1}{5}", "35", "\\frac{448}{15625}"], "final_ans": "\\frac{458}{15625}", "kind": "wrong_final"}
+{"id": 92, "sub_answers": ["\\frac{1}{5}", "\\frac{448}{15625}", "35"], "final_ans": "\\frac{448}{15625}", "kind": "sibling_swap"}
+{"id": 92, "sub_answers": ["\\frac{1}{5}", "350", "\\frac{2240}{78125}"], "final_ans": "\\frac{2240}{78125}", "kind": "wrong_value"}
+{"id": 92, "sub_answers": ["\\frac{1}{5}", "35", "\\frac{2240}{78125}"], "final_ans": "\\frac{2241}{78125}", "kind": "wrong_final"}
+{"id": 92, "sub_answers": ["\\frac{1}{5}", "\\frac{2240}{78125}", "35"], "final_ans": "\\frac{2240}{78125}", "kind": "sibling_swap"}
+{"id": 108, "sub_answers": ["c^2 = a^2 - b^2", "\\left(\\pm\\sqrt{10 - \\frac{1}{k}}, 0\\right)", "\\sqrt{\\frac{1}{k} - 1}"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 108, "sub_answers": ["c^2 = a^2 - b^2", "\\left(\\pm\\sqrt{1 - \\frac{1}{k}}, 0\\right)", "\\sqrt{\\frac{1}{k} - 1}"], "final_ans": "3", "kind": "wrong_final"}
+{"id": 108, "sub_answers": ["c^2 = a^2 - b^2", "\\sqrt{\\frac{1}{k} - 1}", "\\left(\\pm\\sqrt{1 - \\frac{1}{k}}, 0\\right)"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 108, "sub_answers": ["c^12 = a^2 - b^2", "(0, \\sqrt{\\frac{k-1}{k}}) \\text{ and } (0, -\\sqrt{\\frac{k-1}{k}})", "\\sqrt{\\frac{1}{k} - 1}"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 108, "sub_answers": ["c^2 = a^2 - b^2", "(0, \\sqrt{\\frac{k-1}{k}}) \\text{ and } (0, -\\sqrt{\\frac{k-1}{k}})", "\\sqrt{\\frac{1}{k} - 1}"], "final_ans": "1", "kind": "wrong_final"}
+{"id": 108, "sub_answers": ["\\sqrt{\\frac{1}{k} - 1}", "(0, \\sqrt{\\frac{k-1}{k}}) \\text{ and } (0, -\\sqrt{\\frac{k-1}{k}})", "c^2 = a^2 - b^2"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 108, "sub_answers": ["c^12 = a^2 - b^2", "(0, \\pm \\sqrt{1 - \\frac{1}{k}})", "\\sqrt{\\frac{1}{k} - 1}"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 108, "sub_answers": ["c^2 = a^2 - b^2", "(0, \\pm \\sqrt{1 - \\frac{1}{k}})", "\\sqrt{\\frac{1}{k} - 1}"], "final_ans": "1", "kind": "wrong_final"}
+{"id": 108, "sub_answers": ["(0, \\pm \\sqrt{1 - \\frac{1}{k}})", "c^2 = a^2 - b^2", "\\sqrt{\\frac{1}{k} - 1}"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 108, "sub_answers": ["c^20 = a^2 - b^2", "(0, \\sqrt{\\frac{k-1}{k}}) \\text{ and } (0, -\\sqrt{\\frac{k-1}{k}})", "1"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 108, "sub_answers": ["c^2 = a^2 - b^2", "(0, \\sqrt{\\frac{k-1}{k}}) \\text{ and } (0, -\\sqrt{\\frac{k-1}{k}})", "1"], "final_ans": "3", "kind": "wrong_final"}
+{"id": 108, "sub_answers": ["c^2 = a^2 - b^2", "1", "(0, \\sqrt{\\frac{k-1}{k}}) \\text{ and } (0, -\\sqrt{\\frac{k-1}{k}})"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 108, "sub_answers": ["c^2 = a^2 - b^2", "(-1, \\pm \\sqrt{1 - \\frac{1}{k}})", "\\sqrt{k-1}"], "final_ans": "2", "kind": "wrong_value"}
+{"id": 108, "sub_answers": ["c^2 = a^2 - b^2", "(0, \\pm \\sqrt{1 - \\frac{1}{k}})", "\\sqrt{k-1}"], "final_ans": "3", "kind": "wrong_final"}
+{"id": 108, "sub_answers": ["\\sqrt{k-1}", "(0, \\pm \\sqrt{1 - \\frac{1}{k}})", "c^2 = a^2 - b^2"], "final_ans": "2", "kind": "sibling_swap"}
+{"id": 125, "sub_answers": ["12.96", "40", "13"], "final_ans": "-3", "kind": "wrong_value"}
+{"id": 125, "sub_answers": ["12.96", "4", "13"], "final_ans": "-3/2", "kind": "wrong_final"}
+{"id": 125, "sub_answers": ["4", "12.96", "13"], "final_ans": "-3", "kind": "sibling_swap"}
+{"id": 143, "sub_answers": ["\\begin{pmatrix} 8 \\\\ -10 \\\\ 4 \\end{pmatrix}", "(no answer found)", "\\frac{M}{14}"], "final_ans": "3\\sqrt{5}", "kind": "wrong_value"}
+{"id": 143, "sub_answers": ["\\begin{pmatrix} 8 \\\\ -10 \\\\ 4 \\end{pmatrix}", "(no answer found)", "\\frac{M}{4}"], "final_ans": "2\\sqrt{5}", "kind": "wrong_final"}
+{"id": 143, "sub_answers": ["\\begin{pmatrix} 8 \\\\ -10 \\\\ 4 \\end{pmatrix}", "\\frac{M}{4}", "(no answer found)"], "final_ans": "3\\sqrt{5}", "kind": "sibling_swap"}
+{"id": 153, "sub_answers": ["42", "8"], "final_ans": "\\frac{2}{21}", "kind": "wrong_value"}
+{"id": 153, "sub_answers": ["84", "8"], "final_ans": "\\frac{4}{21}", "kind": "wrong_final"}
+{"id": 153, "sub_answers": ["8", "84"], "final_ans": "\\frac{2}{21}", "kind": "sibling_swap"}
+{"id": 159, "sub_answers": ["13/5", "1.91"], "final_ans": "3.21", "kind": "wrong_value"}
+{"id": 159, "sub_answers": ["1.3", "1.91"], "final_ans": "321/10", "kind": "wrong_final"}
+{"id": 159, "sub_answers": ["1.91", "1.3"], "final_ans": "3.21", "kind": "sibling_swap"}
+{"id": 165, "sub_answers": ["6, 8, 4", "80", "18"], "final_ans": "\\frac{4}{9}", "kind": "wrong_value"}
+{"id": 165, "sub_answers": ["6, 8, 4", "8", "18"], "final_ans": "\\frac{8}{9}", "kind": "wrong_final"}
+{"id": 165, "sub_answers": ["18", "8", "6, 8, 4"], "final_ans": "\\frac{4}{9}", "kind": "sibling_swap"}
+{"id": 172, "sub_answers": ["74", "-25"], "final_ans": "350", "kind": "wrong_value"}
+{"id": 172, "sub_answers": ["75", "-25"], "final_ans": "175", "kind": "wrong_final"}
+{"id": 172, "sub_answers": ["-25", "75"], "final_ans": "350", "kind": "sibling_swap"}
+{"id": 175, "sub_answers": ["0", "(15, 13)", "18"], "final_ans": "3", "kind": "wrong_value"}
+{"id": 175, "sub_answers": ["0", "(16, 13)", "18"], "final_ans": "2", "kind": "wrong_final"}
+{"id": 175, "sub_answers": ["(16, 13)", "0", "18"], "final_ans": "3", "kind": "sibling_swap"}
+{"id": 175, "sub_answers": ["0", "(16, 13)", "9/2"], "final_ans": "3", "kind": "wrong_value"}
+{"id": 175, "sub_answers": ["0", "(16, 13)", "9"], "final_ans": "2", "kind": "wrong_final"}
+{"id": 175, "sub_answers": ["9", "(16, 13)", "0"], "final_ans": "3", "kind": "sibling_swap"}
+{"id": 175, "sub_answers": ["0", "(160, 13)", "24"], "final_ans": "3", "kind": "wrong_value"}
+{"id": 175, "sub_answers": ["0", "(16, 13)", "24"], "final_ans": "6", "kind": "wrong_final"}
+{"id": 175, "sub_answers": ["24", "(16, 13)", "0"], "final_ans": "3", "kind": "sibling_swap"}
+{"id": 178, "sub_answers": ["3600", "4, 3, 5", "6\\sqrt{5}"], "final_ans": "60", "kind": "wrong_value"}
+{"id": 178, "sub_answers": ["3600", "2, 3, 5", "6\\sqrt{5}"], "final_ans": "61", "kind": "wrong_final"}
+{"id": 178, "sub_answers": ["2, 3, 5", "3600", "6\\sqrt{5}"], "final_ans": "60", "kind": "sibling_swap"}
+{"id": 178, "sub_answers": ["3600", "1, 3, 5", "\\sqrt{60}"], "final_ans": "60", "kind": "wrong_value"}
+{"id": 178, "sub_answers": ["3600", "2, 3, 5", "\\sqrt{60}"], "final_ans": "120", "kind": "wrong_final"}
+{"id": 178, "sub_answers": ["3600", "\\sqrt{60}", "2, 3, 5"], "final_ans": "60", "kind": "sibling_swap"}
+{"id": 178, "sub_answers": ["3600", "20, 3, 5", "2\\sqrt[4]{15}"], "final_ans": "60", "kind": "wrong_value"}
+{"id": 178, "sub_answers": ["3600", "2, 3, 5", "2\\sqrt[4]{15}"], "final_ans": "120", "kind": "wrong_final"}
+{"id": 178, "sub_answers": ["2, 3, 5", "3600", "2\\sqrt[4]{15}"], "final_ans": "60", "kind": "sibling_swap"}
+{"id": 192, "sub_answers": ["17", "30"], "final_ans": "30", "kind": "wrong_value"}
+{"id": 192, "sub_answers": ["16", "30"], "final_ans": "31", "kind": "wrong_final"}
+{"id": 192, "sub_answers": ["30", "16"], "final_ans": "30", "kind": "sibling_swap"}
+{"id": 199, "sub_answers": ["37", "4", "36"], "final_ans": "17", "kind": "wrong_value"}
+{"id": 199, "sub_answers": ["36", "4", "36"], "final_ans": "170", "kind": "wrong_final"}
+{"id": 199, "sub_answers": ["19 + x", "14", "36"], "final_ans": "17", "kind": "wrong_value"}
+{"id": 199, "sub_answers": ["19 + x", "4", "36"], "final_ans": "16", "kind": "wrong_final"}
+{"id": 199, "sub_answers": ["4", "19 + x", "36"], "final_ans": "17", "kind": "sibling_swap"}
+{"id": 203, "sub_answers": ["12", "-2048", "11"], "final_ans": "12", "kind": "wrong_value"}
+{"id": 203, "sub_answers": ["12", "-2048", "12"], "final_ans": "13", "kind": "wrong_final"}
+{"id": 203, "sub_answers": ["-2048", "12", "12"], "final_ans": "12", "kind": "sibling_swap"}
+{"id": 208, "sub_answers": ["60", "2"], "final_ans": "1", "kind": "wrong_value"}
+{"id": 208, "sub_answers": ["60", "1"], "final_ans": "2", "kind": "wrong_final"}
+{"id": 208, "sub_answers": ["1", "60"], "final_ans": "1", "kind": "sibling_swap"}
+{"id": 216, "sub_answers": ["24", "3"], "final_ans": "6", "kind": "wrong_value"}
+{"id": 216, "sub_answers": ["24", "6"], "final_ans": "7", "kind": "wrong_final"}
+{"id": 216, "sub_answers": ["6", "24"], "final_ans": "6", "kind": "sibling_swap"}
+{"id": 216, "sub_answers": ["\\frac{393}{3}", "6"], "final_ans": "6", "kind": "wrong_value"}
+{"id": 216, "sub_answers": ["\\frac{392}{3}", "6"], "final_ans": "12", "kind": "wrong_final"}
+{"id": 216, "sub_answers": ["6", "\\frac{392}{3}"], "final_ans": "6", "kind": "sibling_swap"}
+{"id": 225, "sub_answers": ["10", "170", "170"], "final_ans": "11", "kind": "wrong_value"}
+{"id": 225, "sub_answers": ["10", "17", "170"], "final_ans": "22", "kind": "wrong_final"}
+{"id": 225, "sub_answers": ["170", "17", "10"], "final_ans": "11", "kind": "sibling_swap"}
+{"id": 242, "sub_answers": ["30", "12000 \\times 1.01^n \\text{ for } n = 0, 1, 2, \\ldots, 30", "60"], "final_ans": "32348", "kind": "wrong_value"}
+{"id": 242, "sub_answers": ["30", "24000 \\times 1.01^n \\text{ for } n = 0, 1, 2, \\ldots, 30", "60"], "final_ans": "32358", "kind": "wrong_final"}
+{"id": 242, "sub_answers": ["30", "60", "24000 \\times 1.01^n \\text{ for } n = 0, 1, 2, \\ldots, 30"], "final_ans": "32348", "kind": "sibling_swap"}
+{"id": 242, "sub_answers": ["40", "24000 \\times (1.01)^n", "60"], "final_ans": "32348", "kind": "wrong_value"}
+{"id": 242, "sub_answers": ["30", "24000 \\times (1.01)^n", "60"], "final_ans": "32347", "kind": "wrong_final"}
+{"id": 242, "sub_answers": ["30", "60", "24000 \\times (1.01)^n"], "final_ans": "32348", "kind": "sibling_swap"}
+{"id": 255, "sub_answers": ["E", "\\text{E}"], "final_ans": "E", "kind": "sibling_swap"}
+{"id": 255, "sub_answers": ["x^1 - y^2 = 4", "E"], "final_ans": "\\text{E}", "kind": "wrong_value"}
+{"id": 255, "sub_answers": ["E", "x^2 - y^2 = 4"], "final_ans": "\\text{E}", "kind": "sibling_swap"}
+{"id": 270, "sub_answers": ["15", "60", "\\$7"], "final_ans": "10", "kind": "wrong_value"}
+{"id": 270, "sub_answers": ["15", "60", "\\$14"], "final_ans": "11", "kind": "wrong_final"}
+{"id": 270, "sub_answers": ["15", "\\$14", "60"], "final_ans": "10", "kind": "sibling_swap"}
+{"id": 275, "sub_answers": ["14", "7"], "final_ans": "7", "kind": "wrong_value"}
+{"id": 275, "sub_answers": ["7", "7"], "final_ans": "14", "kind": "wrong_final"}
+{"id": 302, "sub_answers": ["22 \\times 3 \\times 7 \\times 13 \\times 37", "1, 2, 4, 5, 8, 10, 20, 40, 100, 200, 400, 550, 1100, 2200, 5500, 11000", "5"], "final_ans": "5", "kind": "wrong_value"}
+{"id": 302, "sub_answers": ["11 \\times 3 \\times 7 \\times 13 \\times 37", "1, 2, 4, 5, 8, 10, 20, 40, 100, 200, 400, 550, 1100, 2200, 5500, 11000", "5"], "final_ans": "15", "kind": "wrong_final"}
+{"id": 302, "sub_answers": ["5", "1, 2, 4, 5, 8, 10, 20, 40, 100, 200, 400, 550, 1100, 2200, 5500, 11000", "11 \\times 3 \\times 7 \\times 13 \\times 37"], "final_ans": "5", "kind": "sibling_swap"}
+{"id": 302, "sub_answers": ["12 \\times 3 \\times 7 \\times 13 \\times 37", "1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 18, 20, 27, 30, 36, 40, 45, 54, 60, 72, 90, 108, 120, 135, 180, 216, 270, 360, 540, 1080", "5"], "final_ans": "5", "kind": "wrong_value"}
+{"id": 302, "sub_answers": ["11 \\times 3 \\times 7 \\times 13 \\times 37", "1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 18, 20, 27, 30, 36, 40, 45, 54, 60, 72, 90, 108, 120, 135, 180, 216, 270, 360, 540, 1080", "5"], "final_ans": "15", "kind": "wrong_final"}
+{"id": 302, "sub_answers": ["5", "1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 18, 20, 27, 30, 36, 40, 45, 54, 60, 72, 90, 108, 120, 135, 180, 216, 270, 360, 540, 1080", "11 \\times 3 \\times 7 \\times 13 \\times 37"], "final_ans": "5", "kind": "sibling_swap"}
+{"id": 302, "sub_answers": ["110 \\times 3 \\times 7 \\times 13 \\times 37", "40, 270", "5"], "final_ans": "5", "kind": "wrong_value"}
+{"id": 302, "sub_answers": ["11 \\times 3 \\times 7 \\times 13 \\times 37", "40, 270", "5"], "final_ans": "4", "kind": "wrong_final"}
+{"id": 302, "sub_answers": ["11 \\times 3 \\times 7 \\times 13 \\times 37", "5", "40, 270"], "final_ans": "5", "kind": "sibling_swap"}
+{"id": 302, "sub_answers": ["41 \\times 271", "1, 2, 4, 5, 8, 10, 20, 40, 100, 200, 400, 550, 1100, 2200, 5500, 11000", "5/2"], "final_ans": "5", "kind": "wrong_value"}
+{"id": 302, "sub_answers": ["41 \\times 271", "1, 2, 4, 5, 8, 10, 20, 40, 100, 200, 400, 550, 1100, 2200, 5500, 11000", "5"], "final_ans": "5/2", "kind": "wrong_final"}
+{"id": 302, "sub_answers": ["41 \\times 271", "5", "1, 2, 4, 5, 8, 10, 20, 40, 100, 200, 400, 550, 1100, 2200, 5500, 11000"], "final_ans": "5", "kind": "sibling_swap"}
+{"id": 302, "sub_answers": ["41 \\times 271", "10, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 18, 20, 27, 30, 36, 40, 45, 54, 60, 72, 90, 108, 120, 135, 180, 216, 270, 360, 540, 1080", "5"], "final_ans": "5", "kind": "wrong_value"}
+{"id": 302, "sub_answers": ["41 \\times 271", "1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 18, 20, 27, 30, 36, 40, 45, 54, 60, 72, 90, 108, 120, 135, 180, 216, 270, 360, 540, 1080", "5"], "final_ans": "50", "kind": "wrong_final"}
+{"id": 302, "sub_answers": ["41 \\times 271", "5", "1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 18, 20, 27, 30, 36, 40, 45, 54, 60, 72, 90, 108, 120, 135, 180, 216, 270, 360, 540, 1080"], "final_ans": "5", "kind": "sibling_swap"}
+{"id": 302, "sub_answers": ["51 \\times 271", "40, 270", "5"], "final_ans": "5", "kind": "wrong_value"}
+{"id": 302, "sub_answers": ["41 \\times 271", "40, 270", "5"], "final_ans": "10", "kind": "wrong_final"}
+{"id": 302, "sub_answers": ["5", "40, 270", "41 \\times 271"], "final_ans": "5", "kind": "sibling_swap"}
+{"id": 318, "sub_answers": ["200", "\\frac{16 + 24a}{20} - \\frac{5 + 15a}{20}", "\\frac{11 + 9a}{20}"], "final_ans": "\\frac{11 + 9a}{20}", "kind": "wrong_value"}
+{"id": 318, "sub_answers": ["20", "\\frac{16 + 24a}{20} - \\frac{5 + 15a}{20}", "\\frac{11 + 9a}{20}"], "final_ans": "\\frac{21 + 9a}{20}", "kind": "wrong_final"}
+{"id": 318, "sub_answers": ["\\frac{11 + 9a}{20}", "\\frac{16 + 24a}{20} - \\frac{5 + 15a}{20}", "20"], "final_ans": "\\frac{11 + 9a}{20}", "kind": "sibling_swap"}
+{"id": 318, "sub_answers": ["20", "\\frac{5 + 15a}{20}", "\\frac{12 + 9a}{20}"], "final_ans": "\\frac{11 + 9a}{20}", "kind": "wrong_value"}
+{"id": 318, "sub_answers": ["20", "\\frac{5 + 15a}{20}", "\\frac{11 + 9a}{20}"], "final_ans": "\\frac{12 + 9a}{20}", "kind": "wrong_final"}
+{"id": 318, "sub_answers": ["\\frac{5 + 15a}{20}", "20", "\\frac{11 + 9a}{20}"], "final_ans": "\\frac{11 + 9a}{20}", "kind": "sibling_swap"}
+{"id": 318, "sub_answers": ["20", "20", "\\frac{110 + 9a}{20}"], "final_ans": "\\frac{11 + 9a}{20}", "kind": "wrong_value"}
+{"id": 318, "sub_answers": ["20", "20", "\\frac{11 + 9a}{20}"], "final_ans": "\\frac{10 + 9a}{20}", "kind": "wrong_final"}
+{"id": 318, "sub_answers": ["20", "\\frac{11 + 9a}{20}", "20"], "final_ans": "\\frac{11 + 9a}{20}", "kind": "sibling_swap"}
+{"id": 330, "sub_answers": ["2001", "56", "6"], "final_ans": "1940", "kind": "wrong_value"}
+{"id": 330, "sub_answers": ["2002", "56", "6"], "final_ans": "970", "kind": "wrong_final"}
+{"id": 330, "sub_answers": ["2002", "6", "56"], "final_ans": "1940", "kind": "sibling_swap"}
+{"id": 340, "sub_answers": ["\\cos 29^\\circ", "\\cos 84^\\circ", "54^\\circ"], "final_ans": "55^\\circ", "kind": "wrong_value"}
+{"id": 340, "sub_answers": ["\\cos 29^\\circ", "\\cos 84^\\circ", "55^\\circ"], "final_ans": "54^\\circ", "kind": "wrong_final"}
+{"id": 340, "sub_answers": ["55^\\circ", "\\cos 84^\\circ", "\\cos 29^\\circ"], "final_ans": "55^\\circ", "kind": "sibling_swap"}
+{"id": 345, "sub_answers": ["8", "1"], "final_ans": "1", "kind": "wrong_value"}
+{"id": 345, "sub_answers": ["4", "1"], "final_ans": "2", "kind": "wrong_final"}
+{"id": 345, "sub_answers": ["1", "4"], "final_ans": "1", "kind": "sibling_swap"}
+{"id": 354, "sub_answers": ["81/2", "81"], "final_ans": "81", "kind": "wrong_value"}
+{"id": 354, "sub_answers": ["81", "81"], "final_ans": "80", "kind": "wrong_final"}
+{"id": 374, "sub_answers": ["9", "4"], "final_ans": "4", "kind": "wrong_value"}
+{"id": 374, "sub_answers": ["8", "4"], "final_ans": "40", "kind": "wrong_final"}
+{"id": 374, "sub_answers": ["4", "8"], "final_ans": "4", "kind": "sibling_swap"}
+{"id": 390, "sub_answers": ["d = \\sqrt{x^2 + \\frac{1}{2}(x^2 - 3)^2}", "0", "-\\frac{\\sqrt{4}}{2}"], "final_ans": "12", "kind": "wrong_value"}
+{"id": 390, "sub_answers": ["d = \\sqrt{x^2 + \\frac{1}{2}(x^2 - 3)^2}", "0", "-\\frac{\\sqrt{2}}{2}"], "final_ans": "13", "kind": "wrong_final"}
+{"id": 390, "sub_answers": ["0", "d = \\sqrt{x^2 + \\frac{1}{2}(x^2 - 3)^2}", "-\\frac{\\sqrt{2}}{2}"], "final_ans": "12", "kind": "sibling_swap"}
+{"id": 390, "sub_answers": ["\\sqrt{\\frac{11}{2}x^4 - 2x^2 + \\frac{9}{2}}", "5", "-\\frac{\\sqrt{2}}{2}"], "final_ans": "12", "kind": "wrong_value"}
+{"id": 390, "sub_answers": ["\\sqrt{\\frac{1}{2}x^4 - 2x^2 + \\frac{9}{2}}", "5", "-\\frac{\\sqrt{2}}{2}"], "final_ans": "13", "kind": "wrong_final"}
+{"id": 390, "sub_answers": ["5", "\\sqrt{\\frac{1}{2}x^4 - 2x^2 + \\frac{9}{2}}", "-\\frac{\\sqrt{2}}{2}"], "final_ans": "12", "kind": "sibling_swap"}
+{"id": 390, "sub_answers": ["\\sqrt{\\frac{2}{2}x^4 - 2x^2 + \\frac{9}{2}}", "5", "-\\sqrt{2}"], "final_ans": "12", "kind": "wrong_value"}
+{"id": 390, "sub_answers": ["\\sqrt{\\frac{1}{2}x^4 - 2x^2 + \\frac{9}{2}}", "5", "-\\sqrt{2}"], "final_ans": "24", "kind": "wrong_final"}
+{"id": 390, "sub_answers": ["5", "\\sqrt{\\frac{1}{2}x^4 - 2x^2 + \\frac{9}{2}}", "-\\sqrt{2}"], "final_ans": "12", "kind": "sibling_swap"}
+{"id": 404, "sub_answers": ["7", "17"], "final_ans": "3", "kind": "wrong_value"}
+{"id": 404, "sub_answers": ["7", "7"], "final_ans": "4", "kind": "wrong_final"}
+{"id": 434, "sub_answers": ["8", "33"], "final_ans": "32", "kind": "wrong_value"}
+{"id": 434, "sub_answers": ["8", "32"], "final_ans": "42", "kind": "wrong_final"}
+{"id": 434, "sub_answers": ["32", "8"], "final_ans": "32", "kind": "sibling_swap"}
+{"id": 434, "sub_answers": ["4\\sqrt{2}", "32"], "final_ans": "32", "kind": "wrong_value"}
+{"id": 434, "sub_answers": ["8\\sqrt{2}", "32"], "final_ans": "31", "kind": "wrong_final"}
+{"id": 434, "sub_answers": ["32", "8\\sqrt{2}"], "final_ans": "32", "kind": "sibling_swap"}
+{"id": 434, "sub_answers": ["4\\sqrt{2}", "16"], "final_ans": "32", "kind": "wrong_value"}
+{"id": 434, "sub_answers": ["8\\sqrt{2}", "16"], "final_ans": "33", "kind": "wrong_final"}
+{"id": 434, "sub_answers": ["16", "8\\sqrt{2}"], "final_ans": "32", "kind": "sibling_swap"}
+{"id": 438, "sub_answers": ["0.274", "40"], "final_ans": "4", "kind": "wrong_value"}
+{"id": 438, "sub_answers": ["0.274", "4"], "final_ans": "5", "kind": "wrong_final"}
+{"id": 438, "sub_answers": ["4", "0.274"], "final_ans": "4", "kind": "sibling_swap"}
+{"id": 451, "sub_answers": ["\\frac{10}{3}", "\\frac{3/2}{10}", "\\frac{639}{40}"], "final_ans": "\\frac{639}{40}", "kind": "wrong_value"}
+{"id": 451, "sub_answers": ["\\frac{10}{3}", "\\frac{3}{10}", "\\frac{639}{40}"], "final_ans": "\\frac{6390}{40}", "kind": "wrong_final"}
+{"id": 451, "sub_answers": ["\\frac{639}{40}", "\\frac{3}{10}", "\\frac{10}{3}"], "final_ans": "\\frac{639}{40}", "kind": "sibling_swap"}
+{"id": 457, "sub_answers": ["9", "10"], "final_ans": "0", "kind": "wrong_value"}
+{"id": 457, "sub_answers": ["9", "0"], "final_ans": "1", "kind": "wrong_final"}
+{"id": 457, "sub_answers": ["0", "9"], "final_ans": "0", "kind": "sibling_swap"}
+{"id": 471, "sub_answers": ["1600", "360", "200"], "final_ans": "84", "kind": "wrong_value"}
+{"id": 471, "sub_answers": ["1600", "720", "200"], "final_ans": "85", "kind": "wrong_final"}
+{"id": 471, "sub_answers": ["1600", "200", "720"], "final_ans": "84", "kind": "sibling_swap"}
+{"id": 486, "sub_answers": ["\\text{The side length of the cube is equal to the diameter of the sphere.}", "s^3"], "final_ans": "432", "kind": "wrong_final"}
+{"id": 486, "sub_answers": ["s^3", "\\text{The side length of the cube is equal to the diameter of the sphere.}"], "final_ans": "216", "kind": "sibling_swap"}
+{"id": 486, "sub_answers": ["\\text{The side length of the cube is equal to the diameter of the sphere.}", "V = s^13"], "final_ans": "216", "kind": "wrong_value"}
+{"id": 486, "sub_answers": ["\\text{The side length of the cube is equal to the diameter of the sphere.}", "V = s^3"], "final_ans": "2160", "kind": "wrong_final"}
+{"id": 486, "sub_answers": ["V = s^3", "\\text{The side length of the cube is equal to the diameter of the sphere.}"], "final_ans": "216", "kind": "sibling_swap"}
+{"id": 499, "sub_answers": ["74^\\circ", "1060^\\circ"], "final_ans": "106^\\circ", "kind": "wrong_value"}
+{"id": 499, "sub_answers": ["74^\\circ", "106^\\circ"], "final_ans": "212^\\circ", "kind": "wrong_final"}
+{"id": 499, "sub_answers": ["106^\\circ", "74^\\circ"], "final_ans": "106^\\circ", "kind": "sibling_swap"}
+{"id": 499, "sub_answers": ["740^\\circ", "180^\\circ - \\angle ACB"], "final_ans": "106^\\circ", "kind": "wrong_value"}
+{"id": 499, "sub_answers": ["74^\\circ", "180^\\circ - \\angle ACB"], "final_ans": "1060^\\circ", "kind": "wrong_final"}
+{"id": 499, "sub_answers": ["180^\\circ - \\angle ACB", "74^\\circ"], "final_ans": "106^\\circ", "kind": "sibling_swap"}
